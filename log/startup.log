@@ -1,0 +1,1592 @@
+2023/02/23 20:12:58 [notice] 13641#0: using the "kqueue" event method
+2023/02/23 20:12:58 [notice] 13641#0: using the "kqueue" event method
+2023/02/23 20:12:58 [warn] 13641#0: 1024 worker_connections exceed open file resource limit: 256
+2023/02/23 20:12:58 [warn] 13641#0: 1024 worker_connections exceed open file resource limit: 256
+2023/02/23 20:12:58 [notice] 13641#0: start worker processes
+2023/02/23 20:12:58 [notice] 13641#0: start worker processes
+2023/02/23 20:12:58 [notice] 13641#0: start worker process 52366
+2023/02/23 20:12:58 [notice] 13641#0: start worker process 52366
+2023/02/23 20:12:58 [notice] 13641#0: start worker process 52367
+2023/02/23 20:12:58 [notice] 13641#0: start worker process 52367
+2023/02/23 20:12:58 [notice] 13641#0: start worker process 52368
+2023/02/23 20:12:58 [notice] 13641#0: start worker process 52368
+2023/02/23 20:12:58 [notice] 13641#0: start worker process 52369
+2023/02/23 20:12:58 [notice] 13641#0: start worker process 52369
+2023/02/23 20:12:58 [notice] 13641#0: start worker process 52370
+2023/02/23 20:12:58 [notice] 13641#0: start worker process 52370
+2023/02/23 20:12:58 [notice] 13641#0: start worker process 52371
+2023/02/23 20:12:58 [notice] 13641#0: start worker process 52371
+2023/02/23 20:12:58 [notice] 13641#0: start worker process 52372
+2023/02/23 20:12:58 [notice] 13641#0: start worker process 52372
+2023/02/23 20:12:58 [notice] 13641#0: start worker process 52373
+2023/02/23 20:12:58 [notice] 13641#0: start worker process 52373
+2023/02/23 20:12:58 [notice] 13641#0: signal 23 (SIGIO) received from 52324
+2023/02/23 20:12:58 [notice] 13641#0: signal 23 (SIGIO) received from 52324
+2023/02/23 20:12:58 [notice] 13641#0: signal 23 (SIGIO) received
+2023/02/23 20:12:58 [notice] 13641#0: signal 23 (SIGIO) received
+2023/02/23 20:12:58 [notice] 13641#0: signal 20 (SIGCHLD) received from 52324
+2023/02/23 20:12:58 [notice] 13641#0: signal 20 (SIGCHLD) received from 52324
+2023/02/23 20:12:58 [notice] 13641#0: worker process 52330 exited with code 0
+2023/02/23 20:12:58 [notice] 13641#0: worker process 52330 exited with code 0
+2023/02/23 20:12:58 [notice] 13641#0: worker process 52325 exited with code 0
+2023/02/23 20:12:58 [notice] 13641#0: worker process 52325 exited with code 0
+2023/02/23 20:12:58 [notice] 13641#0: worker process 52328 exited with code 0
+2023/02/23 20:12:58 [notice] 13641#0: worker process 52328 exited with code 0
+2023/02/23 20:12:58 [notice] 13641#0: worker process 52324 exited with code 0
+2023/02/23 20:12:58 [notice] 13641#0: worker process 52324 exited with code 0
+2023/02/23 20:12:58 [notice] 13641#0: signal 23 (SIGIO) received
+2023/02/23 20:12:58 [notice] 13641#0: signal 23 (SIGIO) received
+2023/02/23 20:12:58 [notice] 13641#0: signal 23 (SIGIO) received
+2023/02/23 20:12:58 [notice] 13641#0: signal 23 (SIGIO) received
+2023/02/23 20:12:58 [notice] 13641#0: signal 20 (SIGCHLD) received from 52323
+2023/02/23 20:12:58 [notice] 13641#0: signal 20 (SIGCHLD) received from 52323
+2023/02/23 20:12:58 [notice] 13641#0: worker process 52329 exited with code 0
+2023/02/23 20:12:58 [notice] 13641#0: worker process 52329 exited with code 0
+2023/02/23 20:12:58 [notice] 13641#0: worker process 52327 exited with code 0
+2023/02/23 20:12:58 [notice] 13641#0: worker process 52327 exited with code 0
+2023/02/23 20:12:58 [notice] 13641#0: worker process 52326 exited with code 0
+2023/02/23 20:12:58 [notice] 13641#0: worker process 52326 exited with code 0
+2023/02/23 20:12:58 [notice] 13641#0: worker process 52323 exited with code 0
+2023/02/23 20:12:58 [notice] 13641#0: worker process 52323 exited with code 0
+2023/02/23 20:12:58 [notice] 13641#0: signal 23 (SIGIO) received
+2023/02/23 20:12:58 [notice] 13641#0: signal 23 (SIGIO) received
+2023/02/23 20:12:58 [notice] 13641#0: signal 23 (SIGIO) received
+2023/02/23 20:12:58 [notice] 13641#0: signal 23 (SIGIO) received
+2023/02/23 20:16:23 [notice] 13641#0: signal 1 (SIGHUP) received from 52428, reconfiguring
+2023/02/23 20:16:23 [notice] 13641#0: signal 1 (SIGHUP) received from 52428, reconfiguring
+2023/02/23 20:16:23 [notice] 13641#0: reconfiguring
+2023/02/23 20:16:23 [notice] 13641#0: reconfiguring
+2023/02/23 20:16:23 [notice] 13641#0: using the "kqueue" event method
+2023/02/23 20:16:23 [notice] 13641#0: using the "kqueue" event method
+2023/02/23 20:16:23 [warn] 13641#0: 1024 worker_connections exceed open file resource limit: 256
+2023/02/23 20:16:23 [warn] 13641#0: 1024 worker_connections exceed open file resource limit: 256
+2023/02/23 20:16:23 [notice] 13641#0: start worker processes
+2023/02/23 20:16:23 [notice] 13641#0: start worker processes
+2023/02/23 20:16:23 [notice] 13641#0: start worker process 52430
+2023/02/23 20:16:23 [notice] 13641#0: start worker process 52430
+2023/02/23 20:16:23 [notice] 13641#0: start worker process 52431
+2023/02/23 20:16:23 [notice] 13641#0: start worker process 52431
+2023/02/23 20:16:23 [notice] 13641#0: start worker process 52432
+2023/02/23 20:16:23 [notice] 13641#0: start worker process 52432
+2023/02/23 20:16:23 [notice] 13641#0: start worker process 52433
+2023/02/23 20:16:23 [notice] 13641#0: start worker process 52433
+2023/02/23 20:16:23 [notice] 13641#0: start worker process 52434
+2023/02/23 20:16:23 [notice] 13641#0: start worker process 52434
+2023/02/23 20:16:23 [notice] 13641#0: start worker process 52435
+2023/02/23 20:16:23 [notice] 13641#0: start worker process 52435
+2023/02/23 20:16:23 [notice] 13641#0: start worker process 52436
+2023/02/23 20:16:23 [notice] 13641#0: start worker process 52436
+2023/02/23 20:16:23 [notice] 13641#0: start worker process 52437
+2023/02/23 20:16:23 [notice] 13641#0: start worker process 52437
+2023/02/23 20:16:23 [notice] 52367#0: gracefully shutting down
+2023/02/23 20:16:23 [notice] 13641#0: signal 23 (SIGIO) received from 52371
+2023/02/23 20:16:23 [notice] 52369#0: gracefully shutting down
+2023/02/23 20:16:23 [notice] 13641#0: signal 23 (SIGIO) received from 52371
+2023/02/23 20:16:23 [notice] 52370#0: gracefully shutting down
+2023/02/23 20:16:23 [notice] 13641#0: signal 23 (SIGIO) received
+2023/02/23 20:16:23 [notice] 52371#0: gracefully shutting down
+2023/02/23 20:16:23 [notice] 13641#0: signal 23 (SIGIO) received
+2023/02/23 20:16:23 [notice] 52368#0: gracefully shutting down
+2023/02/23 20:16:23 [notice] 52366#0: gracefully shutting down
+2023/02/23 20:16:23 [notice] 52368#0: gracefully shutting down
+2023/02/23 20:16:23 [notice] 52366#0: gracefully shutting down
+2023/02/23 20:16:23 [notice] 52369#0: gracefully shutting down
+2023/02/23 20:16:23 [notice] 52371#0: gracefully shutting down
+2023/02/23 20:16:23 [notice] 52373#0: gracefully shutting down
+2023/02/23 20:16:23 [notice] 52372#0: gracefully shutting down
+2023/02/23 20:16:23 [notice] 52367#0: gracefully shutting down
+2023/02/23 20:16:23 [notice] 52370#0: gracefully shutting down
+2023/02/23 20:16:23 [notice] 52373#0: gracefully shutting down
+2023/02/23 20:16:23 [notice] 52372#0: gracefully shutting down
+2023/02/23 20:16:23 [notice] 52370#0: exiting
+2023/02/23 20:16:23 [notice] 52370#0: exiting
+2023/02/23 20:16:23 [notice] 52368#0: exiting
+2023/02/23 20:16:23 [notice] 52368#0: exiting
+2023/02/23 20:16:23 [notice] 52369#0: exiting
+2023/02/23 20:16:23 [notice] 52369#0: exiting
+2023/02/23 20:16:23 [notice] 52371#0: exiting
+2023/02/23 20:16:23 [notice] 52371#0: exiting
+2023/02/23 20:16:23 [notice] 52367#0: exiting
+2023/02/23 20:16:23 [notice] 52367#0: exiting
+2023/02/23 20:16:23 [notice] 52366#0: exiting
+2023/02/23 20:16:23 [notice] 52366#0: exiting
+2023/02/23 20:16:23 [notice] 52372#0: exiting
+2023/02/23 20:16:23 [notice] 52372#0: exiting
+2023/02/23 20:16:23 [notice] 52370#0: exit
+2023/02/23 20:16:23 [notice] 52368#0: exit
+2023/02/23 20:16:23 [notice] 52369#0: exit
+2023/02/23 20:16:23 [notice] 52367#0: exit
+2023/02/23 20:16:23 [notice] 52371#0: exit
+2023/02/23 20:16:23 [notice] 52373#0: exiting
+2023/02/23 20:16:23 [notice] 52373#0: exiting
+2023/02/23 20:16:23 [notice] 52372#0: exit
+2023/02/23 20:16:23 [notice] 52373#0: exit
+2023/02/23 20:16:23 [notice] 52366#0: exit
+2023/02/23 20:16:23 [notice] 13641#0: signal 20 (SIGCHLD) received from 52369
+2023/02/23 20:16:23 [notice] 13641#0: signal 20 (SIGCHLD) received from 52369
+2023/02/23 20:16:23 [notice] 13641#0: worker process 52373 exited with code 0
+2023/02/23 20:16:23 [notice] 13641#0: worker process 52373 exited with code 0
+2023/02/23 20:16:23 [notice] 13641#0: worker process 52372 exited with code 0
+2023/02/23 20:16:23 [notice] 13641#0: worker process 52372 exited with code 0
+2023/02/23 20:16:23 [notice] 13641#0: worker process 52369 exited with code 0
+2023/02/23 20:16:23 [notice] 13641#0: worker process 52369 exited with code 0
+2023/02/23 20:16:23 [notice] 13641#0: worker process 52368 exited with code 0
+2023/02/23 20:16:23 [notice] 13641#0: worker process 52368 exited with code 0
+2023/02/23 20:16:23 [notice] 13641#0: worker process 52367 exited with code 0
+2023/02/23 20:16:23 [notice] 13641#0: worker process 52367 exited with code 0
+2023/02/23 20:16:23 [notice] 13641#0: signal 23 (SIGIO) received
+2023/02/23 20:16:23 [notice] 13641#0: signal 23 (SIGIO) received
+2023/02/23 20:16:23 [notice] 13641#0: signal 23 (SIGIO) received
+2023/02/23 20:16:23 [notice] 13641#0: signal 23 (SIGIO) received
+2023/02/23 20:16:23 [notice] 13641#0: signal 20 (SIGCHLD) received from 52436
+2023/02/23 20:16:23 [notice] 13641#0: signal 20 (SIGCHLD) received from 52436
+2023/02/23 20:16:23 [notice] 13641#0: worker process 52371 exited with code 0
+2023/02/23 20:16:23 [notice] 13641#0: worker process 52371 exited with code 0
+2023/02/23 20:16:23 [notice] 13641#0: worker process 52370 exited with code 0
+2023/02/23 20:16:23 [notice] 13641#0: worker process 52370 exited with code 0
+2023/02/23 20:16:23 [notice] 13641#0: worker process 52366 exited with code 0
+2023/02/23 20:16:23 [notice] 13641#0: worker process 52366 exited with code 0
+2023/02/23 20:16:23 [notice] 13641#0: signal 23 (SIGIO) received
+2023/02/23 20:16:23 [notice] 13641#0: signal 23 (SIGIO) received
+2023/02/23 20:16:23 [notice] 13641#0: signal 23 (SIGIO) received
+2023/02/23 20:16:23 [notice] 13641#0: signal 23 (SIGIO) received
+2023/02/23 20:19:35 [notice] 13641#0: signal 1 (SIGHUP) received from 52493, reconfiguring
+2023/02/23 20:19:35 [notice] 13641#0: signal 1 (SIGHUP) received from 52493, reconfiguring
+2023/02/23 20:19:35 [notice] 13641#0: reconfiguring
+2023/02/23 20:19:35 [notice] 13641#0: reconfiguring
+2023/02/23 20:19:35 [emerg] 13641#0: invalid number of arguments in "auth_request" directive in /Users/20058748/Documents/personal/system-design/nginx/nginx.conf:57
+2023/02/23 20:19:35 [emerg] 13641#0: invalid number of arguments in "auth_request" directive in /Users/20058748/Documents/personal/system-design/nginx/nginx.conf:57
+2023/02/23 20:19:35 [emerg] 13641#0: invalid number of arguments in "auth_request" directive in /Users/20058748/Documents/personal/system-design/nginx/nginx.conf:57
+2023/02/23 20:27:59 [notice] 13641#0: signal 1 (SIGHUP) received from 52643, reconfiguring
+2023/02/23 20:27:59 [notice] 13641#0: signal 1 (SIGHUP) received from 52643, reconfiguring
+2023/02/23 20:27:59 [notice] 13641#0: reconfiguring
+2023/02/23 20:27:59 [notice] 13641#0: reconfiguring
+2023/02/23 20:27:59 [emerg] 13641#0: invalid number of arguments in "auth_request" directive in /Users/20058748/Documents/personal/system-design/nginx/nginx.conf:55
+2023/02/23 20:27:59 [emerg] 13641#0: invalid number of arguments in "auth_request" directive in /Users/20058748/Documents/personal/system-design/nginx/nginx.conf:55
+2023/02/23 20:27:59 [emerg] 13641#0: invalid number of arguments in "auth_request" directive in /Users/20058748/Documents/personal/system-design/nginx/nginx.conf:55
+2023/02/23 20:30:29 [notice] 13641#0: signal 1 (SIGHUP) received from 52672, reconfiguring
+2023/02/23 20:30:29 [notice] 13641#0: signal 1 (SIGHUP) received from 52672, reconfiguring
+2023/02/23 20:30:29 [notice] 13641#0: reconfiguring
+2023/02/23 20:30:29 [notice] 13641#0: reconfiguring
+2023/02/23 20:30:29 [notice] 13641#0: using the "kqueue" event method
+2023/02/23 20:30:29 [notice] 13641#0: using the "kqueue" event method
+2023/02/23 20:30:29 [warn] 13641#0: 1024 worker_connections exceed open file resource limit: 256
+2023/02/23 20:30:29 [warn] 13641#0: 1024 worker_connections exceed open file resource limit: 256
+2023/02/23 20:30:29 [notice] 13641#0: start worker processes
+2023/02/23 20:30:29 [notice] 13641#0: start worker processes
+2023/02/23 20:30:29 [notice] 13641#0: start worker process 52674
+2023/02/23 20:30:29 [notice] 13641#0: start worker process 52674
+2023/02/23 20:30:29 [notice] 13641#0: start worker process 52675
+2023/02/23 20:30:29 [notice] 13641#0: start worker process 52675
+2023/02/23 20:30:29 [notice] 13641#0: start worker process 52676
+2023/02/23 20:30:29 [notice] 13641#0: start worker process 52676
+2023/02/23 20:30:29 [notice] 13641#0: start worker process 52677
+2023/02/23 20:30:29 [notice] 13641#0: start worker process 52677
+2023/02/23 20:30:29 [notice] 13641#0: start worker process 52678
+2023/02/23 20:30:29 [notice] 13641#0: start worker process 52678
+2023/02/23 20:30:29 [notice] 13641#0: start worker process 52679
+2023/02/23 20:30:29 [notice] 13641#0: start worker process 52679
+2023/02/23 20:30:29 [notice] 13641#0: start worker process 52680
+2023/02/23 20:30:29 [notice] 13641#0: start worker process 52680
+2023/02/23 20:30:29 [notice] 13641#0: start worker process 52681
+2023/02/23 20:30:29 [notice] 13641#0: start worker process 52681
+2023/02/23 20:30:30 [notice] 13641#0: signal 23 (SIGIO) received
+2023/02/23 20:30:30 [notice] 13641#0: signal 23 (SIGIO) received
+2023/02/23 20:30:30 [notice] 52437#0: gracefully shutting down
+2023/02/23 20:30:30 [notice] 52437#0: gracefully shutting down
+2023/02/23 20:30:30 [notice] 52431#0: gracefully shutting down
+2023/02/23 20:30:30 [notice] 52433#0: gracefully shutting down
+2023/02/23 20:30:30 [notice] 52434#0: gracefully shutting down
+2023/02/23 20:30:30 [notice] 52433#0: gracefully shutting down
+2023/02/23 20:30:30 [notice] 52434#0: gracefully shutting down
+2023/02/23 20:30:30 [notice] 13641#0: signal 23 (SIGIO) received
+2023/02/23 20:30:30 [notice] 52435#0: gracefully shutting down
+2023/02/23 20:30:30 [notice] 13641#0: signal 23 (SIGIO) received
+2023/02/23 20:30:30 [notice] 52430#0: gracefully shutting down
+2023/02/23 20:30:30 [notice] 52436#0: gracefully shutting down
+2023/02/23 20:30:30 [notice] 52430#0: gracefully shutting down
+2023/02/23 20:30:30 [notice] 52435#0: gracefully shutting down
+2023/02/23 20:30:30 [notice] 52431#0: gracefully shutting down
+2023/02/23 20:30:30 [notice] 13641#0: signal 23 (SIGIO) received from 52432
+2023/02/23 20:30:30 [notice] 13641#0: signal 23 (SIGIO) received from 52432
+2023/02/23 20:30:30 [notice] 52436#0: gracefully shutting down
+2023/02/23 20:30:30 [notice] 52432#0: gracefully shutting down
+2023/02/23 20:30:30 [notice] 52432#0: gracefully shutting down
+2023/02/23 20:30:30 [notice] 52434#0: exiting
+2023/02/23 20:30:30 [notice] 52434#0: exiting
+2023/02/23 20:30:30 [notice] 52433#0: exiting
+2023/02/23 20:30:30 [notice] 52433#0: exiting
+2023/02/23 20:30:30 [notice] 52437#0: exiting
+2023/02/23 20:30:30 [notice] 52437#0: exiting
+2023/02/23 20:30:30 [notice] 52433#0: exit
+2023/02/23 20:30:30 [notice] 52434#0: exit
+2023/02/23 20:30:30 [notice] 52435#0: exiting
+2023/02/23 20:30:30 [notice] 52435#0: exiting
+2023/02/23 20:30:30 [notice] 52430#0: exiting
+2023/02/23 20:30:30 [notice] 52430#0: exiting
+2023/02/23 20:30:30 [notice] 52432#0: exiting
+2023/02/23 20:30:30 [notice] 52432#0: exiting
+2023/02/23 20:30:30 [notice] 52431#0: exiting
+2023/02/23 20:30:30 [notice] 52431#0: exiting
+2023/02/23 20:30:30 [notice] 52437#0: exit
+2023/02/23 20:30:30 [notice] 52430#0: exit
+2023/02/23 20:30:30 [notice] 52436#0: exiting
+2023/02/23 20:30:30 [notice] 52436#0: exiting
+2023/02/23 20:30:30 [notice] 52431#0: exit
+2023/02/23 20:30:30 [notice] 52432#0: exit
+2023/02/23 20:30:30 [notice] 52436#0: exit
+2023/02/23 20:30:30 [notice] 52435#0: exit
+2023/02/23 20:30:30 [notice] 13641#0: signal 20 (SIGCHLD) received from 52434
+2023/02/23 20:30:30 [notice] 13641#0: signal 20 (SIGCHLD) received from 52434
+2023/02/23 20:30:30 [notice] 13641#0: worker process 52437 exited with code 0
+2023/02/23 20:30:30 [notice] 13641#0: worker process 52437 exited with code 0
+2023/02/23 20:30:30 [notice] 13641#0: worker process 52434 exited with code 0
+2023/02/23 20:30:30 [notice] 13641#0: worker process 52434 exited with code 0
+2023/02/23 20:30:30 [notice] 13641#0: worker process 52430 exited with code 0
+2023/02/23 20:30:30 [notice] 13641#0: worker process 52430 exited with code 0
+2023/02/23 20:30:30 [notice] 13641#0: worker process 52433 exited with code 0
+2023/02/23 20:30:30 [notice] 13641#0: worker process 52433 exited with code 0
+2023/02/23 20:30:30 [notice] 13641#0: worker process 52432 exited with code 0
+2023/02/23 20:30:30 [notice] 13641#0: worker process 52432 exited with code 0
+2023/02/23 20:30:30 [notice] 13641#0: worker process 52431 exited with code 0
+2023/02/23 20:30:30 [notice] 13641#0: worker process 52431 exited with code 0
+2023/02/23 20:30:30 [notice] 13641#0: signal 23 (SIGIO) received
+2023/02/23 20:30:30 [notice] 13641#0: signal 23 (SIGIO) received
+2023/02/23 20:30:30 [notice] 13641#0: signal 23 (SIGIO) received
+2023/02/23 20:30:30 [notice] 13641#0: signal 23 (SIGIO) received
+2023/02/23 20:30:30 [notice] 13641#0: signal 23 (SIGIO) received
+2023/02/23 20:30:30 [notice] 13641#0: signal 23 (SIGIO) received
+2023/02/23 20:30:30 [notice] 13641#0: signal 23 (SIGIO) received from 52435
+2023/02/23 20:30:30 [notice] 13641#0: signal 23 (SIGIO) received from 52435
+2023/02/23 20:30:30 [notice] 13641#0: signal 23 (SIGIO) received
+2023/02/23 20:30:30 [notice] 13641#0: signal 23 (SIGIO) received
+2023/02/23 20:30:30 [notice] 13641#0: signal 20 (SIGCHLD) received from 52676
+2023/02/23 20:30:30 [notice] 13641#0: signal 23 (SIGIO) received from 52677
+2023/02/23 20:30:30 [notice] 13641#0: signal 23 (SIGIO) received from 52677
+2023/02/23 20:30:30 [notice] 13641#0: signal 23 (SIGIO) received from 52677
+2023/02/23 20:30:30 [notice] 13641#0: signal 23 (SIGIO) received from 52677
+2023/02/23 20:30:30 [notice] 13641#0: signal 23 (SIGIO) received
+2023/02/23 20:30:30 [notice] 13641#0: signal 23 (SIGIO) received
+2023/02/23 20:30:30 [notice] 13641#0: signal 20 (SIGCHLD) received from 52676
+2023/02/23 20:30:30 [notice] 13641#0: worker process 52436 exited with code 0
+2023/02/23 20:30:30 [notice] 13641#0: worker process 52436 exited with code 0
+2023/02/23 20:30:30 [notice] 13641#0: worker process 52435 exited with code 0
+2023/02/23 20:30:30 [notice] 13641#0: worker process 52435 exited with code 0
+2023/02/23 20:30:30 [notice] 13641#0: signal 23 (SIGIO) received
+2023/02/23 20:30:30 [notice] 13641#0: signal 23 (SIGIO) received
+2023/02/23 20:30:30 [notice] 13641#0: signal 23 (SIGIO) received
+2023/02/23 20:30:30 [notice] 13641#0: signal 23 (SIGIO) received
+2023/02/23 20:30:30 [notice] 13641#0: signal 20 (SIGCHLD) received
+2023/02/23 20:30:30 [notice] 13641#0: signal 20 (SIGCHLD) received
+2023/02/23 21:09:25 [notice] 13641#0: signal 1 (SIGHUP) received from 55467, reconfiguring
+2023/02/23 21:09:25 [notice] 13641#0: signal 1 (SIGHUP) received from 55467, reconfiguring
+2023/02/23 21:09:25 [notice] 13641#0: reconfiguring
+2023/02/23 21:09:25 [notice] 13641#0: reconfiguring
+2023/02/23 21:09:25 [notice] 13641#0: using the "kqueue" event method
+2023/02/23 21:09:25 [notice] 13641#0: using the "kqueue" event method
+2023/02/23 21:09:25 [warn] 13641#0: 1024 worker_connections exceed open file resource limit: 256
+2023/02/23 21:09:25 [warn] 13641#0: 1024 worker_connections exceed open file resource limit: 256
+2023/02/23 21:09:25 [notice] 13641#0: start worker processes
+2023/02/23 21:09:25 [notice] 13641#0: start worker processes
+2023/02/23 21:09:25 [notice] 13641#0: start worker process 55469
+2023/02/23 21:09:25 [notice] 13641#0: start worker process 55469
+2023/02/23 21:09:25 [notice] 13641#0: start worker process 55470
+2023/02/23 21:09:25 [notice] 13641#0: start worker process 55470
+2023/02/23 21:09:25 [notice] 13641#0: start worker process 55471
+2023/02/23 21:09:25 [notice] 13641#0: start worker process 55471
+2023/02/23 21:09:25 [notice] 13641#0: start worker process 55472
+2023/02/23 21:09:25 [notice] 13641#0: start worker process 55472
+2023/02/23 21:09:25 [notice] 13641#0: start worker process 55473
+2023/02/23 21:09:25 [notice] 13641#0: start worker process 55473
+2023/02/23 21:09:25 [notice] 13641#0: start worker process 55474
+2023/02/23 21:09:25 [notice] 13641#0: start worker process 55474
+2023/02/23 21:09:25 [notice] 13641#0: start worker process 55475
+2023/02/23 21:09:25 [notice] 13641#0: start worker process 55475
+2023/02/23 21:09:25 [notice] 13641#0: start worker process 55476
+2023/02/23 21:09:25 [notice] 13641#0: start worker process 55476
+2023/02/23 21:09:25 [notice] 52674#0: gracefully shutting down
+2023/02/23 21:09:25 [notice] 13641#0: signal 23 (SIGIO) received
+2023/02/23 21:09:25 [notice] 52674#0: gracefully shutting down
+2023/02/23 21:09:25 [notice] 13641#0: signal 23 (SIGIO) received
+2023/02/23 21:09:25 [notice] 52681#0: gracefully shutting down
+2023/02/23 21:09:25 [notice] 52681#0: gracefully shutting down
+2023/02/23 21:09:25 [notice] 13641#0: signal 23 (SIGIO) received
+2023/02/23 21:09:25 [notice] 13641#0: signal 23 (SIGIO) received
+2023/02/23 21:09:25 [notice] 52676#0: gracefully shutting down
+2023/02/23 21:09:25 [notice] 52676#0: gracefully shutting down
+2023/02/23 21:09:25 [notice] 52674#0: exiting
+2023/02/23 21:09:25 [notice] 52674#0: exiting
+2023/02/23 21:09:25 [notice] 52676#0: exiting
+2023/02/23 21:09:25 [notice] 52676#0: exiting
+2023/02/23 21:09:25 [notice] 52674#0: exit
+2023/02/23 21:09:25 [notice] 52675#0: gracefully shutting down
+2023/02/23 21:09:25 [notice] 52676#0: exit
+2023/02/23 21:09:25 [notice] 52675#0: gracefully shutting down
+2023/02/23 21:09:25 [notice] 52678#0: gracefully shutting down
+2023/02/23 21:09:25 [notice] 52678#0: gracefully shutting down
+2023/02/23 21:09:25 [notice] 52675#0: exiting
+2023/02/23 21:09:25 [notice] 52675#0: exiting
+2023/02/23 21:09:25 [notice] 52681#0: exiting
+2023/02/23 21:09:25 [notice] 52681#0: exiting
+2023/02/23 21:09:25 [notice] 52678#0: exiting
+2023/02/23 21:09:25 [notice] 52678#0: exiting
+2023/02/23 21:09:25 [notice] 52675#0: exit
+2023/02/23 21:09:25 [notice] 52679#0: gracefully shutting down
+2023/02/23 21:09:25 [notice] 52679#0: gracefully shutting down
+2023/02/23 21:09:25 [notice] 52678#0: exit
+2023/02/23 21:09:25 [notice] 52681#0: exit
+2023/02/23 21:09:25 [notice] 52677#0: gracefully shutting down
+2023/02/23 21:09:25 [notice] 52677#0: gracefully shutting down
+2023/02/23 21:09:25 [notice] 52677#0: exiting
+2023/02/23 21:09:25 [notice] 52677#0: exiting
+2023/02/23 21:09:25 [notice] 52680#0: gracefully shutting down
+2023/02/23 21:09:25 [notice] 52680#0: gracefully shutting down
+2023/02/23 21:09:25 [notice] 52679#0: exiting
+2023/02/23 21:09:25 [notice] 13641#0: signal 20 (SIGCHLD) received from 52676
+2023/02/23 21:09:25 [notice] 13641#0: signal 20 (SIGCHLD) received from 52676
+2023/02/23 21:09:25 [notice] 52679#0: exiting
+2023/02/23 21:09:25 [notice] 13641#0: worker process 52678 exited with code 0
+2023/02/23 21:09:25 [notice] 13641#0: worker process 52678 exited with code 0
+2023/02/23 21:09:25 [notice] 13641#0: worker process 52676 exited with code 0
+2023/02/23 21:09:25 [notice] 13641#0: worker process 52676 exited with code 0
+2023/02/23 21:09:25 [notice] 13641#0: worker process 52675 exited with code 0
+2023/02/23 21:09:25 [notice] 13641#0: worker process 52675 exited with code 0
+2023/02/23 21:09:25 [notice] 13641#0: worker process 52674 exited with code 0
+2023/02/23 21:09:25 [notice] 13641#0: worker process 52674 exited with code 0
+2023/02/23 21:09:25 [notice] 52677#0: exit
+2023/02/23 21:09:25 [notice] 52680#0: exiting
+2023/02/23 21:09:25 [notice] 52680#0: exiting
+2023/02/23 21:09:25 [notice] 52679#0: exit
+2023/02/23 21:09:25 [notice] 13641#0: signal 23 (SIGIO) received
+2023/02/23 21:09:25 [notice] 13641#0: signal 23 (SIGIO) received
+2023/02/23 21:09:25 [notice] 13641#0: signal 20 (SIGCHLD) received from 52681
+2023/02/23 21:09:25 [notice] 13641#0: signal 20 (SIGCHLD) received from 52681
+2023/02/23 21:09:25 [notice] 13641#0: worker process 52681 exited with code 0
+2023/02/23 21:09:25 [notice] 13641#0: worker process 52681 exited with code 0
+2023/02/23 21:09:25 [notice] 13641#0: signal 23 (SIGIO) received
+2023/02/23 21:09:25 [notice] 13641#0: signal 23 (SIGIO) received
+2023/02/23 21:09:25 [notice] 13641#0: signal 23 (SIGIO) received
+2023/02/23 21:09:25 [notice] 13641#0: signal 23 (SIGIO) received
+2023/02/23 21:09:25 [notice] 13641#0: signal 20 (SIGCHLD) received from 52677
+2023/02/23 21:09:25 [notice] 13641#0: signal 20 (SIGCHLD) received from 52677
+2023/02/23 21:09:25 [notice] 13641#0: worker process 52679 exited with code 0
+2023/02/23 21:09:25 [notice] 13641#0: worker process 52679 exited with code 0
+2023/02/23 21:09:25 [notice] 13641#0: worker process 52677 exited with code 0
+2023/02/23 21:09:25 [notice] 13641#0: worker process 52677 exited with code 0
+2023/02/23 21:09:25 [notice] 13641#0: signal 23 (SIGIO) received from 55470
+2023/02/23 21:09:25 [notice] 13641#0: signal 23 (SIGIO) received from 55470
+2023/02/23 21:09:25 [notice] 13641#0: signal 23 (SIGIO) received
+2023/02/23 21:09:25 [notice] 13641#0: signal 23 (SIGIO) received
+2023/02/23 21:09:25 [notice] 52680#0: exit
+2023/02/23 21:09:25 [notice] 13641#0: signal 23 (SIGIO) received from 52680
+2023/02/23 21:09:25 [notice] 13641#0: signal 23 (SIGIO) received from 52680
+2023/02/23 21:09:25 [notice] 13641#0: signal 23 (SIGIO) received from 52680
+2023/02/23 21:09:25 [notice] 13641#0: signal 23 (SIGIO) received from 52680
+2023/02/23 21:09:25 [notice] 13641#0: signal 23 (SIGIO) received
+2023/02/23 21:09:25 [notice] 13641#0: signal 23 (SIGIO) received
+2023/02/23 21:09:25 [notice] 13641#0: signal 23 (SIGIO) received from 52680
+2023/02/23 21:09:25 [notice] 13641#0: signal 23 (SIGIO) received from 52680
+2023/02/23 21:09:25 [notice] 13641#0: signal 23 (SIGIO) received
+2023/02/23 21:09:25 [notice] 13641#0: signal 23 (SIGIO) received
+2023/02/23 21:09:25 [notice] 13641#0: signal 23 (SIGIO) received from 52680
+2023/02/23 21:09:25 [notice] 13641#0: signal 23 (SIGIO) received from 52680
+2023/02/23 21:09:25 [notice] 13641#0: signal 23 (SIGIO) received
+2023/02/23 21:09:25 [notice] 13641#0: signal 23 (SIGIO) received
+2023/02/23 21:09:25 [notice] 13641#0: signal 20 (SIGCHLD) received from 52680
+2023/02/23 21:09:25 [notice] 13641#0: signal 20 (SIGCHLD) received from 52680
+2023/02/23 21:09:25 [notice] 13641#0: worker process 52680 exited with code 0
+2023/02/23 21:09:25 [notice] 13641#0: worker process 52680 exited with code 0
+2023/02/23 21:09:25 [notice] 13641#0: signal 23 (SIGIO) received
+2023/02/23 21:09:25 [notice] 13641#0: signal 23 (SIGIO) received
+2023/02/23 21:09:25 [notice] 13641#0: signal 23 (SIGIO) received
+2023/02/23 21:09:25 [notice] 13641#0: signal 23 (SIGIO) received
+2023/03/02 10:45:10 [notice] 13641#0: signal 15 (SIGTERM) received from 14310, exiting
+2023/03/02 10:45:10 [notice] 13641#0: signal 15 (SIGTERM) received from 14310, exiting
+2023/03/02 10:45:10 [notice] 55469#0: exiting
+2023/03/02 10:45:10 [notice] 55469#0: exiting
+2023/03/02 10:45:10 [notice] 55472#0: exiting
+2023/03/02 10:45:10 [notice] 55472#0: exiting
+2023/03/02 10:45:10 [notice] 55474#0: exiting
+2023/03/02 10:45:10 [notice] 55474#0: exiting
+2023/03/02 10:45:10 [notice] 55475#0: exiting
+2023/03/02 10:45:10 [notice] 55475#0: exiting
+2023/03/02 10:45:10 [notice] 55470#0: exiting
+2023/03/02 10:45:10 [notice] 55470#0: exiting
+2023/03/02 10:45:10 [notice] 13641#0: signal 23 (SIGIO) received
+2023/03/02 10:45:10 [notice] 13641#0: signal 23 (SIGIO) received
+2023/03/02 10:45:10 [notice] 55476#0: exiting
+2023/03/02 10:45:10 [notice] 55476#0: exiting
+2023/03/02 10:45:10 [notice] 13641#0: signal 23 (SIGIO) received from 55476
+2023/03/02 10:45:10 [notice] 13641#0: signal 23 (SIGIO) received from 55476
+2023/03/02 10:45:10 [notice] 55474#0: exit
+2023/03/02 10:45:10 [notice] 55473#0: exiting
+2023/03/02 10:45:10 [notice] 55475#0: exit
+2023/03/02 10:45:10 [notice] 55470#0: exit
+2023/03/02 10:45:10 [notice] 13641#0: signal 23 (SIGIO) received from 55473
+2023/03/02 10:45:10 [notice] 13641#0: signal 23 (SIGIO) received from 55473
+2023/03/02 10:45:10 [notice] 55472#0: exit
+2023/03/02 10:45:10 [notice] 55473#0: exiting
+2023/03/02 10:45:10 [notice] 55469#0: exit
+2023/03/02 10:45:10 [notice] 55471#0: exiting
+2023/03/02 10:45:10 [notice] 55471#0: exiting
+2023/03/02 10:45:10 [notice] 13641#0: signal 23 (SIGIO) received from 55471
+2023/03/02 10:45:10 [notice] 13641#0: signal 23 (SIGIO) received from 55471
+2023/03/02 10:45:10 [notice] 55473#0: exit
+2023/03/02 10:45:10 [notice] 55476#0: exit
+2023/03/02 10:45:10 [notice] 55471#0: exit
+2023/03/02 10:45:10 [notice] 13641#0: signal 20 (SIGCHLD) received from 55474
+2023/03/02 10:45:10 [notice] 13641#0: signal 20 (SIGCHLD) received from 55474
+2023/03/02 10:45:10 [notice] 13641#0: worker process 55476 exited with code 0
+2023/03/02 10:45:10 [notice] 13641#0: worker process 55476 exited with code 0
+2023/03/02 10:45:10 [notice] 13641#0: worker process 55474 exited with code 0
+2023/03/02 10:45:10 [notice] 13641#0: worker process 55474 exited with code 0
+2023/03/02 10:45:10 [notice] 13641#0: worker process 55472 exited with code 0
+2023/03/02 10:45:10 [notice] 13641#0: worker process 55472 exited with code 0
+2023/03/02 10:45:10 [notice] 13641#0: signal 23 (SIGIO) received
+2023/03/02 10:45:10 [notice] 13641#0: signal 23 (SIGIO) received
+2023/03/02 10:45:10 [notice] 13641#0: signal 20 (SIGCHLD) received from 55469
+2023/03/02 10:45:10 [notice] 13641#0: signal 20 (SIGCHLD) received from 55469
+2023/03/02 10:45:10 [notice] 13641#0: worker process 55473 exited with code 0
+2023/03/02 10:45:10 [notice] 13641#0: worker process 55473 exited with code 0
+2023/03/02 10:45:10 [notice] 13641#0: worker process 55469 exited with code 0
+2023/03/02 10:45:10 [notice] 13641#0: worker process 55469 exited with code 0
+2023/03/02 10:45:10 [notice] 13641#0: signal 23 (SIGIO) received
+2023/03/02 10:45:10 [notice] 13641#0: signal 23 (SIGIO) received
+2023/03/02 10:45:10 [notice] 13641#0: signal 23 (SIGIO) received from 55470
+2023/03/02 10:45:10 [notice] 13641#0: signal 23 (SIGIO) received from 55470
+2023/03/02 10:45:10 [notice] 13641#0: signal 20 (SIGCHLD) received from 55475
+2023/03/02 10:45:10 [notice] 13641#0: signal 20 (SIGCHLD) received from 55475
+2023/03/02 10:45:10 [notice] 13641#0: worker process 55475 exited with code 0
+2023/03/02 10:45:10 [notice] 13641#0: worker process 55475 exited with code 0
+2023/03/02 10:45:10 [notice] 13641#0: worker process 55471 exited with code 0
+2023/03/02 10:45:10 [notice] 13641#0: worker process 55471 exited with code 0
+2023/03/02 10:45:10 [notice] 13641#0: worker process 55470 exited with code 0
+2023/03/02 10:45:10 [notice] 13641#0: worker process 55470 exited with code 0
+2023/03/02 10:45:10 [notice] 13641#0: exit
+2023/03/02 10:45:10 [notice] 13641#0: exit
+2023/03/14 13:49:50 [emerg] 67970#0: bind() to 0.0.0.0:80 failed (48: Address already in use)
+2023/03/14 13:49:50 [emerg] 67970#0: bind() to 0.0.0.0:80 failed (48: Address already in use)
+2023/03/14 13:49:50 [emerg] 67970#0: bind() to 0.0.0.0:80 failed (48: Address already in use)
+2023/03/14 13:49:50 [notice] 67970#0: try again to bind() after 500ms
+2023/03/14 13:49:50 [notice] 67970#0: try again to bind() after 500ms
+2023/03/14 13:49:50 [emerg] 67970#0: bind() to 0.0.0.0:80 failed (48: Address already in use)
+2023/03/14 13:49:50 [emerg] 67970#0: bind() to 0.0.0.0:80 failed (48: Address already in use)
+2023/03/14 13:49:50 [emerg] 67970#0: bind() to 0.0.0.0:80 failed (48: Address already in use)
+2023/03/14 13:49:50 [notice] 67970#0: try again to bind() after 500ms
+2023/03/14 13:49:50 [notice] 67970#0: try again to bind() after 500ms
+2023/03/14 13:49:50 [emerg] 67970#0: bind() to 0.0.0.0:80 failed (48: Address already in use)
+2023/03/14 13:49:50 [emerg] 67970#0: bind() to 0.0.0.0:80 failed (48: Address already in use)
+2023/03/14 13:49:50 [emerg] 67970#0: bind() to 0.0.0.0:80 failed (48: Address already in use)
+2023/03/14 13:49:50 [notice] 67970#0: try again to bind() after 500ms
+2023/03/14 13:49:50 [notice] 67970#0: try again to bind() after 500ms
+2023/03/14 13:49:50 [emerg] 67970#0: bind() to 0.0.0.0:80 failed (48: Address already in use)
+2023/03/14 13:49:50 [emerg] 67970#0: bind() to 0.0.0.0:80 failed (48: Address already in use)
+2023/03/14 13:49:50 [emerg] 67970#0: bind() to 0.0.0.0:80 failed (48: Address already in use)
+2023/03/14 13:49:50 [notice] 67970#0: try again to bind() after 500ms
+2023/03/14 13:49:50 [notice] 67970#0: try again to bind() after 500ms
+2023/03/14 13:49:50 [emerg] 67970#0: bind() to 0.0.0.0:80 failed (48: Address already in use)
+2023/03/14 13:49:50 [emerg] 67970#0: bind() to 0.0.0.0:80 failed (48: Address already in use)
+2023/03/14 13:49:50 [emerg] 67970#0: bind() to 0.0.0.0:80 failed (48: Address already in use)
+2023/03/14 13:49:50 [notice] 67970#0: try again to bind() after 500ms
+2023/03/14 13:49:50 [notice] 67970#0: try again to bind() after 500ms
+2023/03/14 13:49:50 [emerg] 67970#0: still could not bind()
+2023/03/14 13:49:50 [emerg] 67970#0: still could not bind()
+2023/03/14 13:49:50 [emerg] 67970#0: still could not bind()
+2023/03/14 14:27:43 [notice] 71356#0: using the "kqueue" event method
+2023/03/14 14:27:43 [notice] 71356#0: using the "kqueue" event method
+2023/03/14 14:27:43 [warn] 71356#0: 1024 worker_connections exceed open file resource limit: 256
+2023/03/14 14:27:43 [warn] 71356#0: 1024 worker_connections exceed open file resource limit: 256
+2023/03/14 14:27:43 [notice] 71356#0: nginx/1.23.3
+2023/03/14 14:27:43 [notice] 71356#0: nginx/1.23.3
+2023/03/14 14:27:43 [notice] 71356#0: built by clang 13.0.0 (clang-1300.0.29.30)
+2023/03/14 14:27:43 [notice] 71356#0: built by clang 13.0.0 (clang-1300.0.29.30)
+2023/03/14 14:27:43 [notice] 71356#0: OS: Darwin 20.5.0
+2023/03/14 14:27:43 [notice] 71356#0: OS: Darwin 20.5.0
+2023/03/14 14:27:43 [notice] 71356#0: hw.ncpu: 8
+2023/03/14 14:27:43 [notice] 71356#0: hw.ncpu: 8
+2023/03/14 14:27:43 [notice] 71356#0: net.inet.tcp.sendspace: 131072
+2023/03/14 14:27:43 [notice] 71356#0: net.inet.tcp.sendspace: 131072
+2023/03/14 14:27:43 [notice] 71356#0: kern.ipc.somaxconn: 128
+2023/03/14 14:27:43 [notice] 71356#0: kern.ipc.somaxconn: 128
+2023/03/14 14:27:43 [notice] 71356#0: getrlimit(RLIMIT_NOFILE): 256:9223372036854775807
+2023/03/14 14:27:43 [notice] 71356#0: getrlimit(RLIMIT_NOFILE): 256:9223372036854775807
+2023/03/14 14:27:43 [notice] 71357#0: start worker processes
+2023/03/14 14:27:43 [notice] 71357#0: start worker processes
+2023/03/14 14:27:43 [notice] 71357#0: start worker process 71358
+2023/03/14 14:27:43 [notice] 71357#0: start worker process 71358
+2023/03/14 14:27:43 [notice] 71357#0: start worker process 71359
+2023/03/14 14:27:43 [notice] 71357#0: start worker process 71359
+2023/03/14 14:27:43 [notice] 71357#0: start worker process 71360
+2023/03/14 14:27:43 [notice] 71357#0: start worker process 71360
+2023/03/14 14:27:43 [notice] 71357#0: start worker process 71361
+2023/03/14 14:27:43 [notice] 71357#0: start worker process 71361
+2023/03/14 14:27:43 [notice] 71357#0: start worker process 71363
+2023/03/14 14:27:43 [notice] 71357#0: start worker process 71363
+2023/03/14 14:27:43 [notice] 71357#0: start worker process 71364
+2023/03/14 14:27:43 [notice] 71357#0: start worker process 71364
+2023/03/14 14:27:43 [notice] 71357#0: start worker process 71365
+2023/03/14 14:27:43 [notice] 71357#0: start worker process 71365
+2023/03/14 14:27:43 [notice] 71357#0: start worker process 71366
+2023/03/14 14:27:43 [notice] 71357#0: start worker process 71366
+2023/03/14 14:27:43 [notice] 71357#0: signal 23 (SIGIO) received
+2023/03/14 14:27:43 [notice] 71357#0: signal 23 (SIGIO) received
+2023/03/14 14:27:43 [notice] 71357#0: signal 23 (SIGIO) received
+2023/03/14 14:27:43 [notice] 71357#0: signal 23 (SIGIO) received
+2023/03/14 14:27:43 [notice] 71357#0: signal 23 (SIGIO) received from 71365
+2023/03/14 14:27:43 [notice] 71357#0: signal 23 (SIGIO) received from 71365
+2023/03/14 14:28:28 [notice] 71357#0: signal 15 (SIGTERM) received from 71387, exiting
+2023/03/14 14:28:28 [notice] 71357#0: signal 15 (SIGTERM) received from 71387, exiting
+2023/03/14 14:28:28 [notice] 71358#0: exiting
+2023/03/14 14:28:28 [notice] 71358#0: exiting
+2023/03/14 14:28:28 [notice] 71360#0: exiting
+2023/03/14 14:28:28 [notice] 71360#0: exiting
+2023/03/14 14:28:28 [notice] 71357#0: signal 23 (SIGIO) received from 71360
+2023/03/14 14:28:28 [notice] 71364#0: exiting
+2023/03/14 14:28:28 [notice] 71364#0: exiting
+2023/03/14 14:28:28 [notice] 71361#0: exiting
+2023/03/14 14:28:28 [notice] 71357#0: signal 23 (SIGIO) received from 71360
+2023/03/14 14:28:28 [notice] 71359#0: exiting
+2023/03/14 14:28:28 [notice] 71361#0: exiting
+2023/03/14 14:28:28 [notice] 71363#0: exiting
+2023/03/14 14:28:28 [notice] 71365#0: exiting
+2023/03/14 14:28:28 [notice] 71363#0: exiting
+2023/03/14 14:28:28 [notice] 71366#0: exiting
+2023/03/14 14:28:28 [notice] 71357#0: signal 23 (SIGIO) received
+2023/03/14 14:28:28 [notice] 71365#0: exiting
+2023/03/14 14:28:28 [notice] 71357#0: signal 23 (SIGIO) received
+2023/03/14 14:28:28 [notice] 71366#0: exiting
+2023/03/14 14:28:28 [notice] 71359#0: exiting
+2023/03/14 14:28:28 [notice] 71360#0: exit
+2023/03/14 14:28:28 [notice] 71361#0: exit
+2023/03/14 14:28:28 [notice] 71363#0: exit
+2023/03/14 14:28:28 [notice] 71358#0: exit
+2023/03/14 14:28:28 [notice] 71365#0: exit
+2023/03/14 14:28:28 [notice] 71359#0: exit
+2023/03/14 14:28:28 [notice] 71366#0: exit
+2023/03/14 14:28:28 [notice] 71364#0: exit
+2023/03/14 14:28:28 [notice] 71357#0: signal 20 (SIGCHLD) received from 71365
+2023/03/14 14:28:28 [notice] 71357#0: signal 20 (SIGCHLD) received from 71365
+2023/03/14 14:28:28 [notice] 71357#0: worker process 71365 exited with code 0
+2023/03/14 14:28:28 [notice] 71357#0: worker process 71365 exited with code 0
+2023/03/14 14:28:28 [notice] 71357#0: worker process 71363 exited with code 0
+2023/03/14 14:28:28 [notice] 71357#0: worker process 71363 exited with code 0
+2023/03/14 14:28:28 [notice] 71357#0: worker process 71361 exited with code 0
+2023/03/14 14:28:28 [notice] 71357#0: worker process 71361 exited with code 0
+2023/03/14 14:28:28 [notice] 71357#0: worker process 71360 exited with code 0
+2023/03/14 14:28:28 [notice] 71357#0: worker process 71360 exited with code 0
+2023/03/14 14:28:28 [notice] 71357#0: worker process 71359 exited with code 0
+2023/03/14 14:28:28 [notice] 71357#0: worker process 71359 exited with code 0
+2023/03/14 14:28:28 [notice] 71357#0: worker process 71358 exited with code 0
+2023/03/14 14:28:28 [notice] 71357#0: worker process 71358 exited with code 0
+2023/03/14 14:28:28 [notice] 71357#0: signal 23 (SIGIO) received
+2023/03/14 14:28:28 [notice] 71357#0: signal 23 (SIGIO) received
+2023/03/14 14:28:28 [notice] 71357#0: signal 20 (SIGCHLD) received from 71359
+2023/03/14 14:28:28 [notice] 71357#0: signal 20 (SIGCHLD) received from 71359
+2023/03/14 14:28:28 [notice] 71357#0: signal 23 (SIGIO) received from 71364
+2023/03/14 14:28:28 [notice] 71357#0: signal 23 (SIGIO) received from 71364
+2023/03/14 14:28:28 [notice] 71357#0: signal 20 (SIGCHLD) received from 71366
+2023/03/14 14:28:28 [notice] 71357#0: signal 23 (SIGIO) received from 71364
+2023/03/14 14:28:28 [notice] 71357#0: signal 23 (SIGIO) received from 71364
+2023/03/14 14:28:28 [notice] 71357#0: signal 23 (SIGIO) received
+2023/03/14 14:28:28 [notice] 71357#0: signal 23 (SIGIO) received
+2023/03/14 14:28:28 [notice] 71357#0: signal 20 (SIGCHLD) received from 71366
+2023/03/14 14:28:28 [notice] 71357#0: signal 23 (SIGIO) received from 71364
+2023/03/14 14:28:28 [notice] 71357#0: signal 23 (SIGIO) received from 71364
+2023/03/14 14:28:28 [notice] 71357#0: worker process 71366 exited with code 0
+2023/03/14 14:28:28 [notice] 71357#0: signal 23 (SIGIO) received from 71364
+2023/03/14 14:28:28 [notice] 71357#0: signal 23 (SIGIO) received from 71364
+2023/03/14 14:28:28 [notice] 71357#0: worker process 71366 exited with code 0
+2023/03/14 14:28:28 [notice] 71357#0: signal 23 (SIGIO) received from 71364
+2023/03/14 14:28:28 [notice] 71357#0: signal 23 (SIGIO) received from 71364
+2023/03/14 14:28:28 [notice] 71357#0: worker process 71364 exited with code 0
+2023/03/14 14:28:28 [notice] 71357#0: worker process 71364 exited with code 0
+2023/03/14 14:28:28 [notice] 71357#0: exit
+2023/03/14 14:28:28 [notice] 71357#0: exit
+2023/03/17 14:19:56 [notice] 30845#0: using the "kqueue" event method
+2023/03/17 14:19:56 [notice] 30845#0: using the "kqueue" event method
+2023/03/17 14:19:56 [warn] 30845#0: 1024 worker_connections exceed open file resource limit: 256
+2023/03/17 14:19:56 [warn] 30845#0: 1024 worker_connections exceed open file resource limit: 256
+2023/03/17 14:19:56 [notice] 30845#0: nginx/1.23.3
+2023/03/17 14:19:56 [notice] 30845#0: nginx/1.23.3
+2023/03/17 14:19:56 [notice] 30845#0: built by clang 13.0.0 (clang-1300.0.29.30)
+2023/03/17 14:19:56 [notice] 30845#0: built by clang 13.0.0 (clang-1300.0.29.30)
+2023/03/17 14:19:56 [notice] 30845#0: OS: Darwin 20.5.0
+2023/03/17 14:19:56 [notice] 30845#0: OS: Darwin 20.5.0
+2023/03/17 14:19:56 [notice] 30845#0: hw.ncpu: 8
+2023/03/17 14:19:56 [notice] 30845#0: hw.ncpu: 8
+2023/03/17 14:19:56 [notice] 30845#0: net.inet.tcp.sendspace: 131072
+2023/03/17 14:19:56 [notice] 30845#0: net.inet.tcp.sendspace: 131072
+2023/03/17 14:19:56 [notice] 30845#0: kern.ipc.somaxconn: 128
+2023/03/17 14:19:56 [notice] 30845#0: kern.ipc.somaxconn: 128
+2023/03/17 14:19:56 [notice] 30845#0: getrlimit(RLIMIT_NOFILE): 256:9223372036854775807
+2023/03/17 14:19:56 [notice] 30845#0: getrlimit(RLIMIT_NOFILE): 256:9223372036854775807
+2023/03/17 14:19:56 [notice] 30846#0: start worker processes
+2023/03/17 14:19:56 [notice] 30846#0: start worker processes
+2023/03/17 14:19:56 [notice] 30846#0: start worker process 30847
+2023/03/17 14:19:56 [notice] 30846#0: start worker process 30847
+2023/03/17 14:19:56 [notice] 30846#0: start worker process 30848
+2023/03/17 14:19:56 [notice] 30846#0: start worker process 30848
+2023/03/17 14:19:56 [notice] 30846#0: start worker process 30849
+2023/03/17 14:19:56 [notice] 30846#0: start worker process 30849
+2023/03/17 14:19:56 [notice] 30846#0: start worker process 30850
+2023/03/17 14:19:56 [notice] 30846#0: start worker process 30850
+2023/03/17 14:19:56 [notice] 30846#0: start worker process 30852
+2023/03/17 14:19:56 [notice] 30846#0: start worker process 30852
+2023/03/17 14:19:56 [notice] 30846#0: start worker process 30853
+2023/03/17 14:19:56 [notice] 30846#0: start worker process 30853
+2023/03/17 14:19:56 [notice] 30846#0: start worker process 30854
+2023/03/17 14:19:56 [notice] 30846#0: start worker process 30854
+2023/03/17 14:19:56 [notice] 30846#0: start worker process 30855
+2023/03/17 14:19:56 [notice] 30846#0: start worker process 30855
+2023/03/17 14:19:56 [notice] 30846#0: signal 23 (SIGIO) received
+2023/03/17 14:19:56 [notice] 30846#0: signal 23 (SIGIO) received
+2023/03/17 14:19:56 [notice] 30846#0: signal 23 (SIGIO) received from 30853
+2023/03/17 14:19:56 [notice] 30846#0: signal 23 (SIGIO) received from 30853
+2023/03/17 14:19:56 [notice] 30846#0: signal 23 (SIGIO) received from 30854
+2023/03/17 14:19:56 [notice] 30846#0: signal 23 (SIGIO) received from 30854
+2023/03/17 14:28:00 [notice] 30846#0: signal 15 (SIGTERM) received from 33322, exiting
+2023/03/17 14:28:00 [notice] 30846#0: signal 15 (SIGTERM) received from 33322, exiting
+2023/03/17 14:28:00 [notice] 30846#0: signal 23 (SIGIO) received from 30852
+2023/03/17 14:28:00 [notice] 30846#0: signal 23 (SIGIO) received from 30852
+2023/03/17 14:28:00 [notice] 30852#0: exiting
+2023/03/17 14:28:00 [notice] 30852#0: exiting
+2023/03/17 14:28:00 [notice] 30846#0: signal 23 (SIGIO) received from 30848
+2023/03/17 14:28:00 [notice] 30846#0: signal 23 (SIGIO) received from 30848
+2023/03/17 14:28:00 [notice] 30848#0: exiting
+2023/03/17 14:28:00 [notice] 30850#0: exiting
+2023/03/17 14:28:00 [notice] 30848#0: exiting
+2023/03/17 14:28:00 [notice] 30847#0: exiting
+2023/03/17 14:28:00 [notice] 30850#0: exiting
+2023/03/17 14:28:00 [notice] 30847#0: exiting
+2023/03/17 14:28:00 [notice] 30855#0: exiting
+2023/03/17 14:28:00 [notice] 30846#0: signal 23 (SIGIO) received from 30855
+2023/03/17 14:28:00 [notice] 30846#0: signal 23 (SIGIO) received from 30855
+2023/03/17 14:28:00 [notice] 30855#0: exiting
+2023/03/17 14:28:00 [notice] 30849#0: exiting
+2023/03/17 14:28:00 [notice] 30846#0: signal 23 (SIGIO) received from 30853
+2023/03/17 14:28:00 [notice] 30846#0: signal 23 (SIGIO) received from 30853
+2023/03/17 14:28:00 [notice] 30853#0: exiting
+2023/03/17 14:28:00 [notice] 30854#0: exiting
+2023/03/17 14:28:00 [notice] 30853#0: exiting
+2023/03/17 14:28:00 [notice] 30849#0: exiting
+2023/03/17 14:28:00 [notice] 30854#0: exiting
+2023/03/17 14:28:00 [notice] 30853#0: exit
+2023/03/17 14:28:00 [notice] 30849#0: exit
+2023/03/17 14:28:00 [notice] 30855#0: exit
+2023/03/17 14:28:00 [notice] 30850#0: exit
+2023/03/17 14:28:00 [notice] 30848#0: exit
+2023/03/17 14:28:00 [notice] 30847#0: exit
+2023/03/17 14:28:00 [notice] 30854#0: exit
+2023/03/17 14:28:00 [notice] 30852#0: exit
+2023/03/17 14:28:00 [notice] 30846#0: signal 20 (SIGCHLD) received from 30852
+2023/03/17 14:28:00 [notice] 30846#0: signal 20 (SIGCHLD) received from 30852
+2023/03/17 14:28:00 [notice] 30846#0: worker process 30855 exited with code 0
+2023/03/17 14:28:00 [notice] 30846#0: worker process 30855 exited with code 0
+2023/03/17 14:28:00 [notice] 30846#0: worker process 30852 exited with code 0
+2023/03/17 14:28:00 [notice] 30846#0: worker process 30852 exited with code 0
+2023/03/17 14:28:00 [notice] 30846#0: worker process 30849 exited with code 0
+2023/03/17 14:28:00 [notice] 30846#0: worker process 30849 exited with code 0
+2023/03/17 14:28:00 [notice] 30846#0: worker process 30848 exited with code 0
+2023/03/17 14:28:00 [notice] 30846#0: worker process 30848 exited with code 0
+2023/03/17 14:28:00 [notice] 30846#0: worker process 30847 exited with code 0
+2023/03/17 14:28:00 [notice] 30846#0: worker process 30847 exited with code 0
+2023/03/17 14:28:00 [notice] 30846#0: signal 23 (SIGIO) received
+2023/03/17 14:28:00 [notice] 30846#0: signal 23 (SIGIO) received
+2023/03/17 14:28:00 [notice] 30846#0: signal 20 (SIGCHLD) received from 30853
+2023/03/17 14:28:00 [notice] 30846#0: signal 20 (SIGCHLD) received from 30853
+2023/03/17 14:28:00 [notice] 30846#0: worker process 30853 exited with code 0
+2023/03/17 14:28:00 [notice] 30846#0: worker process 30853 exited with code 0
+2023/03/17 14:28:00 [notice] 30846#0: signal 23 (SIGIO) received
+2023/03/17 14:28:00 [notice] 30846#0: signal 23 (SIGIO) received
+2023/03/17 14:28:00 [notice] 30846#0: signal 20 (SIGCHLD) received from 30850
+2023/03/17 14:28:00 [notice] 30846#0: signal 20 (SIGCHLD) received from 30850
+2023/03/17 14:28:00 [notice] 30846#0: worker process 30850 exited with code 0
+2023/03/17 14:28:00 [notice] 30846#0: worker process 30850 exited with code 0
+2023/03/17 14:28:00 [notice] 30846#0: signal 23 (SIGIO) received
+2023/03/17 14:28:00 [notice] 30846#0: signal 23 (SIGIO) received
+2023/03/17 14:28:00 [notice] 30846#0: signal 23 (SIGIO) received from 30854
+2023/03/17 14:28:00 [notice] 30846#0: signal 23 (SIGIO) received from 30854
+2023/03/17 14:28:00 [notice] 30846#0: signal 23 (SIGIO) received
+2023/03/17 14:28:00 [notice] 30846#0: signal 23 (SIGIO) received
+2023/03/17 14:28:00 [notice] 30846#0: signal 23 (SIGIO) received
+2023/03/17 14:28:00 [notice] 30846#0: signal 23 (SIGIO) received
+2023/03/17 14:28:00 [notice] 30846#0: signal 23 (SIGIO) received from 30854
+2023/03/17 14:28:00 [notice] 30846#0: signal 23 (SIGIO) received from 30854
+2023/03/17 14:28:00 [notice] 30846#0: signal 23 (SIGIO) received
+2023/03/17 14:28:00 [notice] 30846#0: signal 23 (SIGIO) received
+2023/03/17 14:28:00 [notice] 30846#0: signal 23 (SIGIO) received from 30854
+2023/03/17 14:28:00 [notice] 30846#0: signal 23 (SIGIO) received from 30854
+2023/03/17 14:28:00 [notice] 30846#0: signal 20 (SIGCHLD) received from 30854
+2023/03/17 14:28:00 [notice] 30846#0: signal 20 (SIGCHLD) received from 30854
+2023/03/17 14:28:00 [notice] 30846#0: worker process 30854 exited with code 0
+2023/03/17 14:28:00 [notice] 30846#0: worker process 30854 exited with code 0
+2023/03/17 14:28:00 [notice] 30846#0: exit
+2023/03/17 14:28:00 [notice] 30846#0: exit
+2023/03/17 14:28:03 [notice] 33334#0: using the "kqueue" event method
+2023/03/17 14:28:03 [notice] 33334#0: using the "kqueue" event method
+2023/03/17 14:28:03 [warn] 33334#0: 1024 worker_connections exceed open file resource limit: 256
+2023/03/17 14:28:03 [warn] 33334#0: 1024 worker_connections exceed open file resource limit: 256
+2023/03/17 14:28:03 [notice] 33334#0: nginx/1.23.3
+2023/03/17 14:28:03 [notice] 33334#0: nginx/1.23.3
+2023/03/17 14:28:03 [notice] 33334#0: built by clang 13.0.0 (clang-1300.0.29.30)
+2023/03/17 14:28:03 [notice] 33334#0: built by clang 13.0.0 (clang-1300.0.29.30)
+2023/03/17 14:28:03 [notice] 33334#0: OS: Darwin 20.5.0
+2023/03/17 14:28:03 [notice] 33334#0: OS: Darwin 20.5.0
+2023/03/17 14:28:03 [notice] 33334#0: hw.ncpu: 8
+2023/03/17 14:28:03 [notice] 33334#0: hw.ncpu: 8
+2023/03/17 14:28:03 [notice] 33334#0: net.inet.tcp.sendspace: 131072
+2023/03/17 14:28:03 [notice] 33334#0: net.inet.tcp.sendspace: 131072
+2023/03/17 14:28:03 [notice] 33334#0: kern.ipc.somaxconn: 128
+2023/03/17 14:28:03 [notice] 33334#0: kern.ipc.somaxconn: 128
+2023/03/17 14:28:03 [notice] 33334#0: getrlimit(RLIMIT_NOFILE): 256:9223372036854775807
+2023/03/17 14:28:03 [notice] 33334#0: getrlimit(RLIMIT_NOFILE): 256:9223372036854775807
+2023/03/17 14:28:03 [notice] 33335#0: start worker processes
+2023/03/17 14:28:03 [notice] 33335#0: start worker processes
+2023/03/17 14:28:03 [notice] 33335#0: start worker process 33336
+2023/03/17 14:28:03 [notice] 33335#0: start worker process 33336
+2023/03/17 14:28:03 [notice] 33335#0: start worker process 33337
+2023/03/17 14:28:03 [notice] 33335#0: start worker process 33337
+2023/03/17 14:28:03 [notice] 33335#0: start worker process 33338
+2023/03/17 14:28:03 [notice] 33335#0: start worker process 33338
+2023/03/17 14:28:03 [notice] 33335#0: start worker process 33340
+2023/03/17 14:28:03 [notice] 33335#0: start worker process 33340
+2023/03/17 14:28:03 [notice] 33335#0: start worker process 33341
+2023/03/17 14:28:03 [notice] 33335#0: start worker process 33341
+2023/03/17 14:28:03 [notice] 33335#0: start worker process 33342
+2023/03/17 14:28:03 [notice] 33335#0: start worker process 33342
+2023/03/17 14:28:03 [notice] 33335#0: start worker process 33343
+2023/03/17 14:28:03 [notice] 33335#0: start worker process 33343
+2023/03/17 14:28:03 [notice] 33335#0: start worker process 33344
+2023/03/17 14:28:03 [notice] 33335#0: start worker process 33344
+2023/03/17 14:28:03 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 14:28:03 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 14:28:03 [notice] 33335#0: signal 23 (SIGIO) received from 33342
+2023/03/17 14:28:03 [notice] 33335#0: signal 23 (SIGIO) received from 33342
+2023/03/17 14:28:03 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 14:28:03 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 14:28:03 [notice] 33335#0: signal 23 (SIGIO) received from 33343
+2023/03/17 14:28:03 [notice] 33335#0: signal 23 (SIGIO) received from 33343
+2023/03/17 16:37:21 [notice] 33335#0: signal 1 (SIGHUP) received from 48866, reconfiguring
+2023/03/17 16:37:21 [notice] 33335#0: signal 1 (SIGHUP) received from 48866, reconfiguring
+2023/03/17 16:37:21 [notice] 33335#0: reconfiguring
+2023/03/17 16:37:21 [notice] 33335#0: reconfiguring
+2023/03/17 16:37:21 [notice] 33335#0: using the "kqueue" event method
+2023/03/17 16:37:21 [notice] 33335#0: using the "kqueue" event method
+2023/03/17 16:37:21 [warn] 33335#0: 1024 worker_connections exceed open file resource limit: 256
+2023/03/17 16:37:21 [warn] 33335#0: 1024 worker_connections exceed open file resource limit: 256
+2023/03/17 16:37:21 [notice] 33335#0: start worker processes
+2023/03/17 16:37:21 [notice] 33335#0: start worker processes
+2023/03/17 16:37:21 [notice] 33335#0: start worker process 48868
+2023/03/17 16:37:21 [notice] 33335#0: start worker process 48868
+2023/03/17 16:37:21 [notice] 33335#0: start worker process 48869
+2023/03/17 16:37:21 [notice] 33335#0: start worker process 48869
+2023/03/17 16:37:21 [notice] 33335#0: start worker process 48870
+2023/03/17 16:37:21 [notice] 33335#0: start worker process 48870
+2023/03/17 16:37:21 [notice] 33335#0: start worker process 48871
+2023/03/17 16:37:21 [notice] 33335#0: start worker process 48871
+2023/03/17 16:37:21 [notice] 33335#0: start worker process 48872
+2023/03/17 16:37:21 [notice] 33335#0: start worker process 48872
+2023/03/17 16:37:21 [notice] 33335#0: start worker process 48873
+2023/03/17 16:37:21 [notice] 33335#0: start worker process 48873
+2023/03/17 16:37:21 [notice] 33335#0: start worker process 48874
+2023/03/17 16:37:21 [notice] 33335#0: start worker process 48874
+2023/03/17 16:37:21 [notice] 33335#0: start worker process 48875
+2023/03/17 16:37:21 [notice] 33335#0: start worker process 48875
+2023/03/17 16:37:21 [notice] 33336#0: gracefully shutting down
+2023/03/17 16:37:21 [notice] 33338#0: gracefully shutting down
+2023/03/17 16:37:21 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 16:37:21 [notice] 33343#0: gracefully shutting down
+2023/03/17 16:37:21 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 16:37:21 [notice] 33341#0: gracefully shutting down
+2023/03/17 16:37:21 [notice] 33342#0: gracefully shutting down
+2023/03/17 16:37:21 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 16:37:21 [notice] 33337#0: gracefully shutting down
+2023/03/17 16:37:21 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 16:37:21 [notice] 33344#0: gracefully shutting down
+2023/03/17 16:37:21 [notice] 33341#0: gracefully shutting down
+2023/03/17 16:37:21 [notice] 33344#0: gracefully shutting down
+2023/03/17 16:37:21 [notice] 33336#0: gracefully shutting down
+2023/03/17 16:37:21 [notice] 33342#0: gracefully shutting down
+2023/03/17 16:37:21 [notice] 33340#0: gracefully shutting down
+2023/03/17 16:37:21 [notice] 33343#0: gracefully shutting down
+2023/03/17 16:37:21 [notice] 33337#0: gracefully shutting down
+2023/03/17 16:37:21 [notice] 33338#0: gracefully shutting down
+2023/03/17 16:37:21 [notice] 33340#0: gracefully shutting down
+2023/03/17 16:37:21 [notice] 33343#0: exiting
+2023/03/17 16:37:21 [notice] 33343#0: exiting
+2023/03/17 16:37:21 [notice] 33342#0: exiting
+2023/03/17 16:37:21 [notice] 33342#0: exiting
+2023/03/17 16:37:21 [notice] 33336#0: exiting
+2023/03/17 16:37:21 [notice] 33336#0: exiting
+2023/03/17 16:37:21 [notice] 33341#0: exiting
+2023/03/17 16:37:21 [notice] 33341#0: exiting
+2023/03/17 16:37:21 [notice] 33340#0: exiting
+2023/03/17 16:37:21 [notice] 33340#0: exiting
+2023/03/17 16:37:21 [notice] 33344#0: exiting
+2023/03/17 16:37:21 [notice] 33344#0: exiting
+2023/03/17 16:37:21 [notice] 33338#0: exiting
+2023/03/17 16:37:21 [notice] 33338#0: exiting
+2023/03/17 16:37:21 [notice] 33336#0: exit
+2023/03/17 16:37:21 [notice] 33337#0: exiting
+2023/03/17 16:37:21 [notice] 33342#0: exit
+2023/03/17 16:37:21 [notice] 33337#0: exiting
+2023/03/17 16:37:21 [notice] 33341#0: exit
+2023/03/17 16:37:21 [notice] 33340#0: exit
+2023/03/17 16:37:21 [notice] 33344#0: exit
+2023/03/17 16:37:21 [notice] 33337#0: exit
+2023/03/17 16:37:21 [notice] 33343#0: exit
+2023/03/17 16:37:21 [notice] 33338#0: exit
+2023/03/17 16:37:21 [notice] 33335#0: signal 20 (SIGCHLD) received from 33343
+2023/03/17 16:37:21 [notice] 33335#0: signal 20 (SIGCHLD) received from 33343
+2023/03/17 16:37:21 [notice] 33335#0: worker process 33344 exited with code 0
+2023/03/17 16:37:21 [notice] 33335#0: worker process 33344 exited with code 0
+2023/03/17 16:37:21 [notice] 33335#0: worker process 33343 exited with code 0
+2023/03/17 16:37:21 [notice] 33335#0: worker process 33343 exited with code 0
+2023/03/17 16:37:21 [notice] 33335#0: worker process 33340 exited with code 0
+2023/03/17 16:37:21 [notice] 33335#0: worker process 33340 exited with code 0
+2023/03/17 16:37:21 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 16:37:21 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 16:37:21 [notice] 33335#0: signal 20 (SIGCHLD) received from 33337
+2023/03/17 16:37:21 [notice] 33335#0: signal 20 (SIGCHLD) received from 33337
+2023/03/17 16:37:21 [notice] 33335#0: worker process 33337 exited with code 0
+2023/03/17 16:37:21 [notice] 33335#0: worker process 33337 exited with code 0
+2023/03/17 16:37:21 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 16:37:21 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 16:37:21 [notice] 33335#0: signal 23 (SIGIO) received from 33336
+2023/03/17 16:37:21 [notice] 33335#0: signal 23 (SIGIO) received from 33336
+2023/03/17 16:37:21 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 16:37:21 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 16:37:21 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 16:37:21 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 16:37:21 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 16:37:21 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 16:37:21 [notice] 33335#0: signal 20 (SIGCHLD) received from 48869
+2023/03/17 16:37:21 [notice] 33335#0: signal 20 (SIGCHLD) received from 48869
+2023/03/17 16:37:21 [notice] 33335#0: worker process 33342 exited with code 0
+2023/03/17 16:37:21 [notice] 33335#0: worker process 33342 exited with code 0
+2023/03/17 16:37:21 [notice] 33335#0: worker process 33341 exited with code 0
+2023/03/17 16:37:21 [notice] 33335#0: worker process 33341 exited with code 0
+2023/03/17 16:37:21 [notice] 33335#0: worker process 33338 exited with code 0
+2023/03/17 16:37:21 [notice] 33335#0: worker process 33338 exited with code 0
+2023/03/17 16:37:21 [notice] 33335#0: worker process 33336 exited with code 0
+2023/03/17 16:37:21 [notice] 33335#0: worker process 33336 exited with code 0
+2023/03/17 16:37:21 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 16:37:21 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 16:37:21 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 16:37:21 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 16:37:21 [notice] 33335#0: signal 20 (SIGCHLD) received from 33338
+2023/03/17 16:37:21 [notice] 33335#0: signal 20 (SIGCHLD) received from 33338
+2023/03/17 19:10:26 [notice] 33335#0: signal 1 (SIGHUP) received from 56662, reconfiguring
+2023/03/17 19:10:26 [notice] 33335#0: signal 1 (SIGHUP) received from 56662, reconfiguring
+2023/03/17 19:10:26 [notice] 33335#0: reconfiguring
+2023/03/17 19:10:26 [notice] 33335#0: reconfiguring
+2023/03/17 19:10:26 [notice] 33335#0: using the "kqueue" event method
+2023/03/17 19:10:26 [notice] 33335#0: using the "kqueue" event method
+2023/03/17 19:10:26 [warn] 33335#0: 1024 worker_connections exceed open file resource limit: 256
+2023/03/17 19:10:26 [warn] 33335#0: 1024 worker_connections exceed open file resource limit: 256
+2023/03/17 19:10:26 [notice] 33335#0: start worker processes
+2023/03/17 19:10:26 [notice] 33335#0: start worker processes
+2023/03/17 19:10:26 [notice] 33335#0: start worker process 56664
+2023/03/17 19:10:26 [notice] 33335#0: start worker process 56664
+2023/03/17 19:10:26 [notice] 33335#0: start worker process 56665
+2023/03/17 19:10:26 [notice] 33335#0: start worker process 56665
+2023/03/17 19:10:26 [notice] 33335#0: start worker process 56666
+2023/03/17 19:10:26 [notice] 33335#0: start worker process 56666
+2023/03/17 19:10:26 [notice] 33335#0: start worker process 56667
+2023/03/17 19:10:26 [notice] 33335#0: start worker process 56667
+2023/03/17 19:10:26 [notice] 33335#0: start worker process 56668
+2023/03/17 19:10:26 [notice] 33335#0: start worker process 56668
+2023/03/17 19:10:26 [notice] 33335#0: start worker process 56669
+2023/03/17 19:10:26 [notice] 33335#0: start worker process 56669
+2023/03/17 19:10:26 [notice] 33335#0: start worker process 56670
+2023/03/17 19:10:26 [notice] 33335#0: start worker process 56670
+2023/03/17 19:10:26 [notice] 33335#0: start worker process 56671
+2023/03/17 19:10:26 [notice] 33335#0: start worker process 56671
+2023/03/17 19:10:26 [notice] 48869#0: gracefully shutting down
+2023/03/17 19:10:26 [notice] 33335#0: signal 23 (SIGIO) received from 48868
+2023/03/17 19:10:26 [notice] 48871#0: gracefully shutting down
+2023/03/17 19:10:26 [notice] 33335#0: signal 23 (SIGIO) received from 48868
+2023/03/17 19:10:26 [notice] 48868#0: gracefully shutting down
+2023/03/17 19:10:26 [notice] 48870#0: gracefully shutting down
+2023/03/17 19:10:26 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:10:26 [notice] 48872#0: gracefully shutting down
+2023/03/17 19:10:26 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:10:26 [notice] 48871#0: gracefully shutting down
+2023/03/17 19:10:26 [notice] 48873#0: gracefully shutting down
+2023/03/17 19:10:26 [notice] 48873#0: gracefully shutting down
+2023/03/17 19:10:26 [notice] 48869#0: gracefully shutting down
+2023/03/17 19:10:26 [notice] 48870#0: gracefully shutting down
+2023/03/17 19:10:26 [notice] 48872#0: gracefully shutting down
+2023/03/17 19:10:26 [notice] 48875#0: gracefully shutting down
+2023/03/17 19:10:26 [notice] 48868#0: gracefully shutting down
+2023/03/17 19:10:26 [notice] 48874#0: gracefully shutting down
+2023/03/17 19:10:26 [notice] 48875#0: gracefully shutting down
+2023/03/17 19:10:26 [notice] 48874#0: gracefully shutting down
+2023/03/17 19:10:26 [notice] 48872#0: exiting
+2023/03/17 19:10:26 [notice] 48872#0: exiting
+2023/03/17 19:10:26 [notice] 48875#0: exiting
+2023/03/17 19:10:26 [notice] 48875#0: exiting
+2023/03/17 19:10:26 [notice] 48872#0: exit
+2023/03/17 19:10:26 [notice] 48869#0: exiting
+2023/03/17 19:10:26 [notice] 48869#0: exiting
+2023/03/17 19:10:26 [notice] 48870#0: exiting
+2023/03/17 19:10:26 [notice] 48870#0: exiting
+2023/03/17 19:10:26 [notice] 48868#0: exiting
+2023/03/17 19:10:26 [notice] 48868#0: exiting
+2023/03/17 19:10:26 [notice] 48871#0: exiting
+2023/03/17 19:10:26 [notice] 48871#0: exiting
+2023/03/17 19:10:26 [notice] 48869#0: exit
+2023/03/17 19:10:26 [notice] 48874#0: exiting
+2023/03/17 19:10:26 [notice] 48874#0: exiting
+2023/03/17 19:10:26 [notice] 48870#0: exit
+2023/03/17 19:10:26 [notice] 48873#0: exiting
+2023/03/17 19:10:26 [notice] 48873#0: exiting
+2023/03/17 19:10:26 [notice] 48871#0: exit
+2023/03/17 19:10:26 [notice] 48875#0: exit
+2023/03/17 19:10:26 [notice] 48874#0: exit
+2023/03/17 19:10:26 [notice] 48873#0: exit
+2023/03/17 19:10:26 [notice] 33335#0: signal 20 (SIGCHLD) received from 48869
+2023/03/17 19:10:26 [notice] 33335#0: signal 20 (SIGCHLD) received from 48869
+2023/03/17 19:10:26 [notice] 33335#0: worker process 48872 exited with code 0
+2023/03/17 19:10:26 [notice] 33335#0: worker process 48872 exited with code 0
+2023/03/17 19:10:26 [notice] 33335#0: worker process 48869 exited with code 0
+2023/03/17 19:10:26 [notice] 33335#0: worker process 48869 exited with code 0
+2023/03/17 19:10:26 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:10:26 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:10:26 [notice] 33335#0: signal 20 (SIGCHLD) received from 48873
+2023/03/17 19:10:26 [notice] 33335#0: signal 20 (SIGCHLD) received from 48873
+2023/03/17 19:10:26 [notice] 33335#0: worker process 48875 exited with code 0
+2023/03/17 19:10:26 [notice] 33335#0: worker process 48875 exited with code 0
+2023/03/17 19:10:26 [notice] 33335#0: worker process 48874 exited with code 0
+2023/03/17 19:10:26 [notice] 33335#0: worker process 48874 exited with code 0
+2023/03/17 19:10:26 [notice] 33335#0: worker process 48873 exited with code 0
+2023/03/17 19:10:26 [notice] 33335#0: worker process 48873 exited with code 0
+2023/03/17 19:10:26 [notice] 33335#0: worker process 48871 exited with code 0
+2023/03/17 19:10:26 [notice] 33335#0: worker process 48871 exited with code 0
+2023/03/17 19:10:26 [notice] 33335#0: worker process 48870 exited with code 0
+2023/03/17 19:10:26 [notice] 33335#0: worker process 48870 exited with code 0
+2023/03/17 19:10:26 [notice] 48868#0: exit
+2023/03/17 19:10:26 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:10:26 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:10:26 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:10:26 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:10:26 [notice] 33335#0: signal 23 (SIGIO) received from 48868
+2023/03/17 19:10:26 [notice] 33335#0: signal 23 (SIGIO) received from 48868
+2023/03/17 19:10:26 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:10:26 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:10:26 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:10:26 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:10:26 [notice] 33335#0: signal 23 (SIGIO) received from 48868
+2023/03/17 19:10:26 [notice] 33335#0: signal 23 (SIGIO) received from 48868
+2023/03/17 19:10:26 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:10:26 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:10:26 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:10:26 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:10:26 [notice] 33335#0: signal 20 (SIGCHLD) received from 48868
+2023/03/17 19:10:26 [notice] 33335#0: signal 20 (SIGCHLD) received from 48868
+2023/03/17 19:10:26 [notice] 33335#0: worker process 48868 exited with code 0
+2023/03/17 19:10:26 [notice] 33335#0: worker process 48868 exited with code 0
+2023/03/17 19:10:26 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:10:26 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:10:26 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:10:26 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:10:56 [notice] 33335#0: signal 1 (SIGHUP) received from 57417, reconfiguring
+2023/03/17 19:10:56 [notice] 33335#0: signal 1 (SIGHUP) received from 57417, reconfiguring
+2023/03/17 19:10:56 [notice] 33335#0: reconfiguring
+2023/03/17 19:10:56 [notice] 33335#0: reconfiguring
+2023/03/17 19:10:56 [notice] 33335#0: using the "kqueue" event method
+2023/03/17 19:10:56 [notice] 33335#0: using the "kqueue" event method
+2023/03/17 19:10:56 [warn] 33335#0: 1024 worker_connections exceed open file resource limit: 256
+2023/03/17 19:10:56 [warn] 33335#0: 1024 worker_connections exceed open file resource limit: 256
+2023/03/17 19:10:56 [notice] 33335#0: start worker processes
+2023/03/17 19:10:56 [notice] 33335#0: start worker processes
+2023/03/17 19:10:56 [notice] 33335#0: start worker process 57419
+2023/03/17 19:10:56 [notice] 33335#0: start worker process 57419
+2023/03/17 19:10:56 [notice] 33335#0: start worker process 57420
+2023/03/17 19:10:56 [notice] 33335#0: start worker process 57420
+2023/03/17 19:10:56 [notice] 33335#0: start worker process 57421
+2023/03/17 19:10:56 [notice] 33335#0: start worker process 57421
+2023/03/17 19:10:56 [notice] 33335#0: start worker process 57422
+2023/03/17 19:10:56 [notice] 33335#0: start worker process 57422
+2023/03/17 19:10:56 [notice] 33335#0: start worker process 57423
+2023/03/17 19:10:56 [notice] 33335#0: start worker process 57423
+2023/03/17 19:10:56 [notice] 33335#0: start worker process 57424
+2023/03/17 19:10:56 [notice] 33335#0: start worker process 57424
+2023/03/17 19:10:56 [notice] 33335#0: start worker process 57425
+2023/03/17 19:10:56 [notice] 33335#0: start worker process 57425
+2023/03/17 19:10:56 [notice] 33335#0: start worker process 57426
+2023/03/17 19:10:56 [notice] 33335#0: start worker process 57426
+2023/03/17 19:10:56 [notice] 56667#0: gracefully shutting down
+2023/03/17 19:10:56 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:10:56 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:10:56 [notice] 56669#0: gracefully shutting down
+2023/03/17 19:10:56 [notice] 56665#0: gracefully shutting down
+2023/03/17 19:10:56 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:10:56 [notice] 56664#0: gracefully shutting down
+2023/03/17 19:10:56 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:10:56 [notice] 56670#0: gracefully shutting down
+2023/03/17 19:10:56 [notice] 56667#0: gracefully shutting down
+2023/03/17 19:10:56 [notice] 56666#0: gracefully shutting down
+2023/03/17 19:10:56 [notice] 56670#0: gracefully shutting down
+2023/03/17 19:10:56 [notice] 56668#0: gracefully shutting down
+2023/03/17 19:10:56 [notice] 56671#0: gracefully shutting down
+2023/03/17 19:10:56 [notice] 56669#0: gracefully shutting down
+2023/03/17 19:10:56 [notice] 56671#0: gracefully shutting down
+2023/03/17 19:10:56 [notice] 56666#0: gracefully shutting down
+2023/03/17 19:10:56 [notice] 56668#0: gracefully shutting down
+2023/03/17 19:10:56 [notice] 56665#0: gracefully shutting down
+2023/03/17 19:10:56 [notice] 56664#0: gracefully shutting down
+2023/03/17 19:10:56 [notice] 56667#0: exiting
+2023/03/17 19:10:56 [notice] 56667#0: exiting
+2023/03/17 19:10:56 [notice] 56668#0: exiting
+2023/03/17 19:10:56 [notice] 56668#0: exiting
+2023/03/17 19:10:56 [notice] 56666#0: exiting
+2023/03/17 19:10:56 [notice] 56669#0: exiting
+2023/03/17 19:10:56 [notice] 56666#0: exiting
+2023/03/17 19:10:56 [notice] 56664#0: exiting
+2023/03/17 19:10:56 [notice] 56664#0: exiting
+2023/03/17 19:10:56 [notice] 56669#0: exiting
+2023/03/17 19:10:56 [notice] 56670#0: exiting
+2023/03/17 19:10:56 [notice] 56670#0: exiting
+2023/03/17 19:10:56 [notice] 56665#0: exiting
+2023/03/17 19:10:56 [notice] 56665#0: exiting
+2023/03/17 19:10:56 [notice] 56671#0: exiting
+2023/03/17 19:10:56 [notice] 56671#0: exiting
+2023/03/17 19:10:56 [notice] 56668#0: exit
+2023/03/17 19:10:56 [notice] 56669#0: exit
+2023/03/17 19:10:56 [notice] 56666#0: exit
+2023/03/17 19:10:56 [notice] 56667#0: exit
+2023/03/17 19:10:56 [notice] 56664#0: exit
+2023/03/17 19:10:56 [notice] 56665#0: exit
+2023/03/17 19:10:56 [notice] 56670#0: exit
+2023/03/17 19:10:56 [notice] 56671#0: exit
+2023/03/17 19:10:56 [notice] 33335#0: signal 20 (SIGCHLD) received from 56666
+2023/03/17 19:10:56 [notice] 33335#0: signal 20 (SIGCHLD) received from 56666
+2023/03/17 19:10:56 [notice] 33335#0: worker process 56671 exited with code 0
+2023/03/17 19:10:56 [notice] 33335#0: worker process 56671 exited with code 0
+2023/03/17 19:10:56 [notice] 33335#0: worker process 56668 exited with code 0
+2023/03/17 19:10:56 [notice] 33335#0: worker process 56668 exited with code 0
+2023/03/17 19:10:56 [notice] 33335#0: worker process 56670 exited with code 0
+2023/03/17 19:10:56 [notice] 33335#0: worker process 56670 exited with code 0
+2023/03/17 19:10:56 [notice] 33335#0: worker process 56667 exited with code 0
+2023/03/17 19:10:56 [notice] 33335#0: worker process 56667 exited with code 0
+2023/03/17 19:10:56 [notice] 33335#0: worker process 56666 exited with code 0
+2023/03/17 19:10:56 [notice] 33335#0: worker process 56666 exited with code 0
+2023/03/17 19:10:56 [notice] 33335#0: worker process 56669 exited with code 0
+2023/03/17 19:10:56 [notice] 33335#0: worker process 56669 exited with code 0
+2023/03/17 19:10:56 [notice] 33335#0: worker process 56665 exited with code 0
+2023/03/17 19:10:56 [notice] 33335#0: worker process 56665 exited with code 0
+2023/03/17 19:10:56 [notice] 33335#0: worker process 56664 exited with code 0
+2023/03/17 19:10:56 [notice] 33335#0: worker process 56664 exited with code 0
+2023/03/17 19:10:56 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:10:56 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:10:56 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:10:56 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:10:56 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:10:56 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:10:56 [notice] 33335#0: signal 20 (SIGCHLD) received from 57423
+2023/03/17 19:10:56 [notice] 33335#0: signal 20 (SIGCHLD) received from 57423
+2023/03/17 19:10:56 [notice] 33335#0: signal 23 (SIGIO) received from 57426
+2023/03/17 19:10:56 [notice] 33335#0: signal 23 (SIGIO) received from 57426
+2023/03/17 19:17:58 [notice] 33335#0: signal 1 (SIGHUP) received from 58498, reconfiguring
+2023/03/17 19:17:58 [notice] 33335#0: signal 1 (SIGHUP) received from 58498, reconfiguring
+2023/03/17 19:17:58 [notice] 33335#0: reconfiguring
+2023/03/17 19:17:58 [notice] 33335#0: reconfiguring
+2023/03/17 19:17:58 [notice] 33335#0: using the "kqueue" event method
+2023/03/17 19:17:58 [notice] 33335#0: using the "kqueue" event method
+2023/03/17 19:17:58 [warn] 33335#0: 1024 worker_connections exceed open file resource limit: 256
+2023/03/17 19:17:58 [warn] 33335#0: 1024 worker_connections exceed open file resource limit: 256
+2023/03/17 19:17:58 [notice] 33335#0: start worker processes
+2023/03/17 19:17:58 [notice] 33335#0: start worker processes
+2023/03/17 19:17:58 [notice] 33335#0: start worker process 58502
+2023/03/17 19:17:58 [notice] 33335#0: start worker process 58502
+2023/03/17 19:17:58 [notice] 33335#0: start worker process 58503
+2023/03/17 19:17:58 [notice] 33335#0: start worker process 58503
+2023/03/17 19:17:58 [notice] 33335#0: start worker process 58504
+2023/03/17 19:17:58 [notice] 33335#0: start worker process 58504
+2023/03/17 19:17:58 [notice] 33335#0: start worker process 58505
+2023/03/17 19:17:58 [notice] 33335#0: start worker process 58505
+2023/03/17 19:17:58 [notice] 33335#0: start worker process 58506
+2023/03/17 19:17:58 [notice] 33335#0: start worker process 58506
+2023/03/17 19:17:58 [notice] 33335#0: start worker process 58507
+2023/03/17 19:17:58 [notice] 33335#0: start worker process 58507
+2023/03/17 19:17:58 [notice] 33335#0: start worker process 58508
+2023/03/17 19:17:58 [notice] 33335#0: start worker process 58508
+2023/03/17 19:17:58 [notice] 33335#0: start worker process 58509
+2023/03/17 19:17:58 [notice] 33335#0: start worker process 58509
+2023/03/17 19:17:58 [notice] 57424#0: gracefully shutting down
+2023/03/17 19:17:58 [notice] 33335#0: signal 23 (SIGIO) received from 57421
+2023/03/17 19:17:58 [notice] 57425#0: gracefully shutting down
+2023/03/17 19:17:58 [notice] 33335#0: signal 23 (SIGIO) received from 57421
+2023/03/17 19:17:58 [notice] 57420#0: gracefully shutting down
+2023/03/17 19:17:58 [notice] 57423#0: gracefully shutting down
+2023/03/17 19:17:58 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:17:58 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:17:58 [notice] 57426#0: gracefully shutting down
+2023/03/17 19:17:58 [notice] 57422#0: gracefully shutting down
+2023/03/17 19:17:58 [notice] 57425#0: gracefully shutting down
+2023/03/17 19:17:58 [notice] 57422#0: gracefully shutting down
+2023/03/17 19:17:58 [notice] 57420#0: gracefully shutting down
+2023/03/17 19:17:58 [notice] 57426#0: gracefully shutting down
+2023/03/17 19:17:58 [notice] 57423#0: gracefully shutting down
+2023/03/17 19:17:58 [notice] 57419#0: gracefully shutting down
+2023/03/17 19:17:58 [notice] 57421#0: gracefully shutting down
+2023/03/17 19:17:58 [notice] 57424#0: gracefully shutting down
+2023/03/17 19:17:58 [notice] 57419#0: gracefully shutting down
+2023/03/17 19:17:58 [notice] 57421#0: gracefully shutting down
+2023/03/17 19:17:58 [notice] 57419#0: exiting
+2023/03/17 19:17:58 [notice] 57419#0: exiting
+2023/03/17 19:17:58 [notice] 57424#0: exiting
+2023/03/17 19:17:58 [notice] 57422#0: exiting
+2023/03/17 19:17:58 [notice] 57422#0: exiting
+2023/03/17 19:17:58 [notice] 57424#0: exiting
+2023/03/17 19:17:58 [notice] 57426#0: exiting
+2023/03/17 19:17:58 [notice] 57426#0: exiting
+2023/03/17 19:17:58 [notice] 57423#0: exiting
+2023/03/17 19:17:58 [notice] 57423#0: exiting
+2023/03/17 19:17:58 [notice] 57422#0: exit
+2023/03/17 19:17:58 [notice] 57424#0: exit
+2023/03/17 19:17:58 [notice] 57425#0: exiting
+2023/03/17 19:17:58 [notice] 57425#0: exiting
+2023/03/17 19:17:58 [notice] 57419#0: exit
+2023/03/17 19:17:58 [notice] 57426#0: exit
+2023/03/17 19:17:58 [notice] 57420#0: exiting
+2023/03/17 19:17:58 [notice] 57420#0: exiting
+2023/03/17 19:17:58 [notice] 57421#0: exiting
+2023/03/17 19:17:58 [notice] 57421#0: exiting
+2023/03/17 19:17:58 [notice] 57425#0: exit
+2023/03/17 19:17:58 [notice] 57420#0: exit
+2023/03/17 19:17:58 [notice] 33335#0: signal 20 (SIGCHLD) received from 57424
+2023/03/17 19:17:58 [notice] 33335#0: signal 20 (SIGCHLD) received from 57424
+2023/03/17 19:17:58 [notice] 33335#0: worker process 57426 exited with code 0
+2023/03/17 19:17:58 [notice] 33335#0: worker process 57426 exited with code 0
+2023/03/17 19:17:58 [notice] 33335#0: worker process 57424 exited with code 0
+2023/03/17 19:17:58 [notice] 33335#0: worker process 57424 exited with code 0
+2023/03/17 19:17:58 [notice] 33335#0: worker process 57422 exited with code 0
+2023/03/17 19:17:58 [notice] 33335#0: worker process 57422 exited with code 0
+2023/03/17 19:17:58 [notice] 33335#0: worker process 57419 exited with code 0
+2023/03/17 19:17:58 [notice] 33335#0: worker process 57419 exited with code 0
+2023/03/17 19:17:58 [notice] 57423#0: exit
+2023/03/17 19:17:58 [notice] 57421#0: exit
+2023/03/17 19:17:58 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:17:58 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:17:58 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:17:58 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:17:58 [notice] 33335#0: signal 20 (SIGCHLD) received from 58504
+2023/03/17 19:17:58 [notice] 33335#0: signal 20 (SIGCHLD) received from 58504
+2023/03/17 19:17:58 [notice] 33335#0: worker process 57425 exited with code 0
+2023/03/17 19:17:58 [notice] 33335#0: worker process 57425 exited with code 0
+2023/03/17 19:17:58 [notice] 33335#0: signal 23 (SIGIO) received from 58504
+2023/03/17 19:17:58 [notice] 33335#0: signal 23 (SIGIO) received from 58504
+2023/03/17 19:17:58 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:17:58 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:17:58 [notice] 33335#0: signal 20 (SIGCHLD) received from 57420
+2023/03/17 19:17:58 [notice] 33335#0: signal 20 (SIGCHLD) received from 57420
+2023/03/17 19:17:58 [notice] 33335#0: worker process 57420 exited with code 0
+2023/03/17 19:17:58 [notice] 33335#0: worker process 57420 exited with code 0
+2023/03/17 19:17:58 [notice] 33335#0: signal 23 (SIGIO) received from 58509
+2023/03/17 19:17:58 [notice] 33335#0: signal 23 (SIGIO) received from 58509
+2023/03/17 19:17:58 [notice] 33335#0: signal 23 (SIGIO) received from 57421
+2023/03/17 19:17:58 [notice] 33335#0: signal 23 (SIGIO) received from 57421
+2023/03/17 19:17:58 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:17:58 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:17:58 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:17:58 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:17:58 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:17:58 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:17:58 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:17:58 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:17:58 [notice] 33335#0: signal 20 (SIGCHLD) received from 57423
+2023/03/17 19:17:58 [notice] 33335#0: signal 20 (SIGCHLD) received from 57423
+2023/03/17 19:17:58 [notice] 33335#0: signal 23 (SIGIO) received from 57421
+2023/03/17 19:17:58 [notice] 33335#0: signal 23 (SIGIO) received from 57421
+2023/03/17 19:17:58 [notice] 33335#0: worker process 57423 exited with code 0
+2023/03/17 19:17:58 [notice] 33335#0: worker process 57423 exited with code 0
+2023/03/17 19:17:58 [notice] 33335#0: worker process 57421 exited with code 0
+2023/03/17 19:17:58 [notice] 33335#0: worker process 57421 exited with code 0
+2023/03/17 19:17:58 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:17:58 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:17:58 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:17:58 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:17:58 [notice] 33335#0: signal 20 (SIGCHLD) received from 57421
+2023/03/17 19:17:58 [notice] 33335#0: signal 20 (SIGCHLD) received from 57421
+2023/03/17 19:33:43 [notice] 33335#0: signal 1 (SIGHUP) received from 60331, reconfiguring
+2023/03/17 19:33:43 [notice] 33335#0: signal 1 (SIGHUP) received from 60331, reconfiguring
+2023/03/17 19:33:43 [notice] 33335#0: reconfiguring
+2023/03/17 19:33:43 [notice] 33335#0: reconfiguring
+2023/03/17 19:33:43 [notice] 33335#0: using the "kqueue" event method
+2023/03/17 19:33:43 [notice] 33335#0: using the "kqueue" event method
+2023/03/17 19:33:43 [warn] 33335#0: 1024 worker_connections exceed open file resource limit: 256
+2023/03/17 19:33:43 [warn] 33335#0: 1024 worker_connections exceed open file resource limit: 256
+2023/03/17 19:33:43 [notice] 33335#0: start worker processes
+2023/03/17 19:33:43 [notice] 33335#0: start worker processes
+2023/03/17 19:33:43 [notice] 33335#0: start worker process 60333
+2023/03/17 19:33:43 [notice] 33335#0: start worker process 60333
+2023/03/17 19:33:43 [notice] 33335#0: start worker process 60334
+2023/03/17 19:33:43 [notice] 33335#0: start worker process 60334
+2023/03/17 19:33:43 [notice] 33335#0: start worker process 60335
+2023/03/17 19:33:43 [notice] 33335#0: start worker process 60335
+2023/03/17 19:33:43 [notice] 33335#0: start worker process 60336
+2023/03/17 19:33:43 [notice] 33335#0: start worker process 60336
+2023/03/17 19:33:43 [notice] 33335#0: start worker process 60337
+2023/03/17 19:33:43 [notice] 33335#0: start worker process 60337
+2023/03/17 19:33:43 [notice] 33335#0: start worker process 60338
+2023/03/17 19:33:43 [notice] 33335#0: start worker process 60338
+2023/03/17 19:33:43 [notice] 33335#0: start worker process 60339
+2023/03/17 19:33:43 [notice] 33335#0: start worker process 60339
+2023/03/17 19:33:43 [notice] 33335#0: start worker process 60340
+2023/03/17 19:33:43 [notice] 33335#0: start worker process 60340
+2023/03/17 19:33:43 [notice] 58503#0: gracefully shutting down
+2023/03/17 19:33:43 [notice] 58505#0: gracefully shutting down
+2023/03/17 19:33:43 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:33:43 [notice] 58504#0: gracefully shutting down
+2023/03/17 19:33:43 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:33:43 [notice] 58509#0: gracefully shutting down
+2023/03/17 19:33:43 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:33:43 [notice] 58508#0: gracefully shutting down
+2023/03/17 19:33:43 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:33:43 [notice] 58502#0: gracefully shutting down
+2023/03/17 19:33:43 [notice] 58505#0: gracefully shutting down
+2023/03/17 19:33:43 [notice] 58508#0: gracefully shutting down
+2023/03/17 19:33:43 [notice] 58504#0: gracefully shutting down
+2023/03/17 19:33:43 [notice] 58506#0: gracefully shutting down
+2023/03/17 19:33:43 [notice] 58507#0: gracefully shutting down
+2023/03/17 19:33:43 [notice] 58507#0: gracefully shutting down
+2023/03/17 19:33:43 [notice] 58506#0: gracefully shutting down
+2023/03/17 19:33:43 [notice] 58508#0: exiting
+2023/03/17 19:33:43 [notice] 58508#0: exiting
+2023/03/17 19:33:43 [notice] 58502#0: gracefully shutting down
+2023/03/17 19:33:43 [notice] 58505#0: exiting
+2023/03/17 19:33:43 [notice] 58505#0: exiting
+2023/03/17 19:33:43 [notice] 58503#0: gracefully shutting down
+2023/03/17 19:33:43 [notice] 58509#0: gracefully shutting down
+2023/03/17 19:33:43 [notice] 58504#0: exiting
+2023/03/17 19:33:43 [notice] 58504#0: exiting
+2023/03/17 19:33:43 [notice] 58507#0: exiting
+2023/03/17 19:33:43 [notice] 58507#0: exiting
+2023/03/17 19:33:43 [notice] 58502#0: exiting
+2023/03/17 19:33:43 [notice] 58502#0: exiting
+2023/03/17 19:33:43 [notice] 58503#0: exiting
+2023/03/17 19:33:43 [notice] 58503#0: exiting
+2023/03/17 19:33:43 [notice] 58505#0: exit
+2023/03/17 19:33:43 [notice] 58506#0: exiting
+2023/03/17 19:33:43 [notice] 58506#0: exiting
+2023/03/17 19:33:43 [notice] 58504#0: exit
+2023/03/17 19:33:43 [notice] 58502#0: exit
+2023/03/17 19:33:43 [notice] 58509#0: exiting
+2023/03/17 19:33:43 [notice] 58509#0: exiting
+2023/03/17 19:33:43 [notice] 58508#0: exit
+2023/03/17 19:33:43 [notice] 58507#0: exit
+2023/03/17 19:33:43 [notice] 58503#0: exit
+2023/03/17 19:33:43 [notice] 58506#0: exit
+2023/03/17 19:33:43 [notice] 58509#0: exit
+2023/03/17 19:33:43 [notice] 33335#0: signal 20 (SIGCHLD) received from 58507
+2023/03/17 19:33:43 [notice] 33335#0: signal 20 (SIGCHLD) received from 58507
+2023/03/17 19:33:43 [notice] 33335#0: worker process 58508 exited with code 0
+2023/03/17 19:33:43 [notice] 33335#0: worker process 58508 exited with code 0
+2023/03/17 19:33:43 [notice] 33335#0: worker process 58507 exited with code 0
+2023/03/17 19:33:43 [notice] 33335#0: worker process 58507 exited with code 0
+2023/03/17 19:33:43 [notice] 33335#0: worker process 58509 exited with code 0
+2023/03/17 19:33:43 [notice] 33335#0: worker process 58509 exited with code 0
+2023/03/17 19:33:43 [notice] 33335#0: worker process 58506 exited with code 0
+2023/03/17 19:33:43 [notice] 33335#0: worker process 58506 exited with code 0
+2023/03/17 19:33:43 [notice] 33335#0: worker process 58505 exited with code 0
+2023/03/17 19:33:43 [notice] 33335#0: worker process 58505 exited with code 0
+2023/03/17 19:33:43 [notice] 33335#0: worker process 58503 exited with code 0
+2023/03/17 19:33:43 [notice] 33335#0: worker process 58503 exited with code 0
+2023/03/17 19:33:43 [notice] 33335#0: worker process 58502 exited with code 0
+2023/03/17 19:33:43 [notice] 33335#0: worker process 58502 exited with code 0
+2023/03/17 19:33:43 [notice] 33335#0: worker process 58504 exited with code 0
+2023/03/17 19:33:43 [notice] 33335#0: worker process 58504 exited with code 0
+2023/03/17 19:33:43 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:33:43 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:33:43 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:33:43 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:33:43 [notice] 33335#0: signal 20 (SIGCHLD) received from 60338
+2023/03/17 19:33:43 [notice] 33335#0: signal 20 (SIGCHLD) received from 60338
+2023/03/17 19:35:07 [notice] 33335#0: signal 1 (SIGHUP) received from 60431, reconfiguring
+2023/03/17 19:35:07 [notice] 33335#0: signal 1 (SIGHUP) received from 60431, reconfiguring
+2023/03/17 19:35:07 [notice] 33335#0: reconfiguring
+2023/03/17 19:35:07 [notice] 33335#0: reconfiguring
+2023/03/17 19:35:07 [notice] 33335#0: using the "kqueue" event method
+2023/03/17 19:35:07 [notice] 33335#0: using the "kqueue" event method
+2023/03/17 19:35:07 [warn] 33335#0: 1024 worker_connections exceed open file resource limit: 256
+2023/03/17 19:35:07 [warn] 33335#0: 1024 worker_connections exceed open file resource limit: 256
+2023/03/17 19:35:07 [notice] 33335#0: start worker processes
+2023/03/17 19:35:07 [notice] 33335#0: start worker processes
+2023/03/17 19:35:07 [notice] 33335#0: start worker process 60433
+2023/03/17 19:35:07 [notice] 33335#0: start worker process 60433
+2023/03/17 19:35:07 [notice] 33335#0: start worker process 60434
+2023/03/17 19:35:07 [notice] 33335#0: start worker process 60434
+2023/03/17 19:35:07 [notice] 33335#0: start worker process 60435
+2023/03/17 19:35:07 [notice] 33335#0: start worker process 60435
+2023/03/17 19:35:07 [notice] 33335#0: start worker process 60436
+2023/03/17 19:35:07 [notice] 33335#0: start worker process 60436
+2023/03/17 19:35:07 [notice] 33335#0: start worker process 60437
+2023/03/17 19:35:07 [notice] 33335#0: start worker process 60437
+2023/03/17 19:35:07 [notice] 33335#0: start worker process 60438
+2023/03/17 19:35:07 [notice] 33335#0: start worker process 60438
+2023/03/17 19:35:07 [notice] 33335#0: start worker process 60439
+2023/03/17 19:35:07 [notice] 33335#0: start worker process 60439
+2023/03/17 19:35:07 [notice] 33335#0: start worker process 60440
+2023/03/17 19:35:07 [notice] 33335#0: start worker process 60440
+2023/03/17 19:35:07 [notice] 60337#0: gracefully shutting down
+2023/03/17 19:35:07 [notice] 33335#0: signal 23 (SIGIO) received from 60333
+2023/03/17 19:35:07 [notice] 60339#0: gracefully shutting down
+2023/03/17 19:35:07 [notice] 33335#0: signal 23 (SIGIO) received from 60333
+2023/03/17 19:35:07 [notice] 60333#0: gracefully shutting down
+2023/03/17 19:35:07 [notice] 60333#0: gracefully shutting down
+2023/03/17 19:35:07 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:35:07 [notice] 60336#0: gracefully shutting down
+2023/03/17 19:35:07 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:35:07 [notice] 60336#0: gracefully shutting down
+2023/03/17 19:35:07 [notice] 60339#0: gracefully shutting down
+2023/03/17 19:35:07 [notice] 60334#0: gracefully shutting down
+2023/03/17 19:35:07 [notice] 60338#0: gracefully shutting down
+2023/03/17 19:35:07 [notice] 60340#0: gracefully shutting down
+2023/03/17 19:35:07 [notice] 60334#0: gracefully shutting down
+2023/03/17 19:35:07 [notice] 60340#0: gracefully shutting down
+2023/03/17 19:35:07 [notice] 60335#0: gracefully shutting down
+2023/03/17 19:35:07 [notice] 60338#0: gracefully shutting down
+2023/03/17 19:35:07 [notice] 60337#0: gracefully shutting down
+2023/03/17 19:35:07 [notice] 60335#0: gracefully shutting down
+2023/03/17 19:35:07 [notice] 60333#0: exiting
+2023/03/17 19:35:07 [notice] 60333#0: exiting
+2023/03/17 19:35:07 [notice] 60336#0: exiting
+2023/03/17 19:35:07 [notice] 60336#0: exiting
+2023/03/17 19:35:07 [notice] 60339#0: exiting
+2023/03/17 19:35:07 [notice] 60339#0: exiting
+2023/03/17 19:35:07 [notice] 60340#0: exiting
+2023/03/17 19:35:07 [notice] 60340#0: exiting
+2023/03/17 19:35:07 [notice] 60336#0: exit
+2023/03/17 19:35:07 [notice] 60333#0: exit
+2023/03/17 19:35:07 [notice] 60337#0: exiting
+2023/03/17 19:35:07 [notice] 60337#0: exiting
+2023/03/17 19:35:07 [notice] 60338#0: exiting
+2023/03/17 19:35:07 [notice] 60338#0: exiting
+2023/03/17 19:35:07 [notice] 60340#0: exit
+2023/03/17 19:35:07 [notice] 60334#0: exiting
+2023/03/17 19:35:07 [notice] 60334#0: exiting
+2023/03/17 19:35:07 [notice] 60335#0: exiting
+2023/03/17 19:35:07 [notice] 60335#0: exiting
+2023/03/17 19:35:07 [notice] 60339#0: exit
+2023/03/17 19:35:07 [notice] 60337#0: exit
+2023/03/17 19:35:07 [notice] 60338#0: exit
+2023/03/17 19:35:07 [notice] 60334#0: exit
+2023/03/17 19:35:07 [notice] 60335#0: exit
+2023/03/17 19:35:07 [notice] 33335#0: signal 20 (SIGCHLD) received from 60335
+2023/03/17 19:35:07 [notice] 33335#0: signal 20 (SIGCHLD) received from 60335
+2023/03/17 19:35:07 [notice] 33335#0: worker process 60340 exited with code 0
+2023/03/17 19:35:07 [notice] 33335#0: worker process 60340 exited with code 0
+2023/03/17 19:35:07 [notice] 33335#0: worker process 60338 exited with code 0
+2023/03/17 19:35:07 [notice] 33335#0: worker process 60338 exited with code 0
+2023/03/17 19:35:07 [notice] 33335#0: worker process 60336 exited with code 0
+2023/03/17 19:35:07 [notice] 33335#0: worker process 60336 exited with code 0
+2023/03/17 19:35:07 [notice] 33335#0: worker process 60335 exited with code 0
+2023/03/17 19:35:07 [notice] 33335#0: worker process 60335 exited with code 0
+2023/03/17 19:35:07 [notice] 33335#0: worker process 60339 exited with code 0
+2023/03/17 19:35:07 [notice] 33335#0: worker process 60339 exited with code 0
+2023/03/17 19:35:07 [notice] 33335#0: worker process 60333 exited with code 0
+2023/03/17 19:35:07 [notice] 33335#0: worker process 60333 exited with code 0
+2023/03/17 19:35:07 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:35:07 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:35:07 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:35:07 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:35:07 [notice] 33335#0: signal 20 (SIGCHLD) received from 60337
+2023/03/17 19:35:07 [notice] 33335#0: signal 20 (SIGCHLD) received from 60337
+2023/03/17 19:35:07 [notice] 33335#0: worker process 60337 exited with code 0
+2023/03/17 19:35:07 [notice] 33335#0: worker process 60337 exited with code 0
+2023/03/17 19:35:07 [notice] 33335#0: worker process 60334 exited with code 0
+2023/03/17 19:35:07 [notice] 33335#0: worker process 60334 exited with code 0
+2023/03/17 19:35:07 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:35:07 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:35:07 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:35:07 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:35:07 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:35:07 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:45:00 [notice] 33335#0: signal 1 (SIGHUP) received from 62115, reconfiguring
+2023/03/17 19:45:00 [notice] 33335#0: signal 1 (SIGHUP) received from 62115, reconfiguring
+2023/03/17 19:45:00 [notice] 33335#0: reconfiguring
+2023/03/17 19:45:00 [notice] 33335#0: reconfiguring
+2023/03/17 19:45:00 [notice] 33335#0: using the "kqueue" event method
+2023/03/17 19:45:00 [notice] 33335#0: using the "kqueue" event method
+2023/03/17 19:45:00 [warn] 33335#0: 1024 worker_connections exceed open file resource limit: 256
+2023/03/17 19:45:00 [warn] 33335#0: 1024 worker_connections exceed open file resource limit: 256
+2023/03/17 19:45:00 [notice] 33335#0: start worker processes
+2023/03/17 19:45:00 [notice] 33335#0: start worker processes
+2023/03/17 19:45:00 [notice] 33335#0: start worker process 62117
+2023/03/17 19:45:00 [notice] 33335#0: start worker process 62117
+2023/03/17 19:45:00 [notice] 33335#0: start worker process 62118
+2023/03/17 19:45:00 [notice] 33335#0: start worker process 62118
+2023/03/17 19:45:00 [notice] 33335#0: start worker process 62119
+2023/03/17 19:45:00 [notice] 33335#0: start worker process 62119
+2023/03/17 19:45:00 [notice] 33335#0: start worker process 62120
+2023/03/17 19:45:00 [notice] 33335#0: start worker process 62120
+2023/03/17 19:45:00 [notice] 33335#0: start worker process 62121
+2023/03/17 19:45:00 [notice] 33335#0: start worker process 62121
+2023/03/17 19:45:00 [notice] 33335#0: start worker process 62122
+2023/03/17 19:45:00 [notice] 33335#0: start worker process 62122
+2023/03/17 19:45:00 [notice] 33335#0: start worker process 62123
+2023/03/17 19:45:00 [notice] 33335#0: start worker process 62123
+2023/03/17 19:45:00 [notice] 33335#0: start worker process 62124
+2023/03/17 19:45:00 [notice] 33335#0: start worker process 62124
+2023/03/17 19:45:00 [notice] 60434#0: gracefully shutting down
+2023/03/17 19:45:00 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:45:00 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:45:00 [notice] 60435#0: gracefully shutting down
+2023/03/17 19:45:00 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:45:00 [notice] 60438#0: gracefully shutting down
+2023/03/17 19:45:00 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:45:00 [notice] 60433#0: gracefully shutting down
+2023/03/17 19:45:00 [notice] 60437#0: gracefully shutting down
+2023/03/17 19:45:00 [notice] 60436#0: gracefully shutting down
+2023/03/17 19:45:00 [notice] 60439#0: gracefully shutting down
+2023/03/17 19:45:00 [notice] 60437#0: gracefully shutting down
+2023/03/17 19:45:00 [notice] 60434#0: gracefully shutting down
+2023/03/17 19:45:00 [notice] 60440#0: gracefully shutting down
+2023/03/17 19:45:00 [notice] 60433#0: gracefully shutting down
+2023/03/17 19:45:00 [notice] 60439#0: gracefully shutting down
+2023/03/17 19:45:00 [notice] 60438#0: gracefully shutting down
+2023/03/17 19:45:00 [notice] 60436#0: gracefully shutting down
+2023/03/17 19:45:00 [notice] 60440#0: gracefully shutting down
+2023/03/17 19:45:00 [notice] 60435#0: gracefully shutting down
+2023/03/17 19:45:00 [notice] 60437#0: exiting
+2023/03/17 19:45:00 [notice] 60437#0: exiting
+2023/03/17 19:45:00 [notice] 60439#0: exiting
+2023/03/17 19:45:00 [notice] 60439#0: exiting
+2023/03/17 19:45:00 [notice] 60438#0: exiting
+2023/03/17 19:45:00 [notice] 60438#0: exiting
+2023/03/17 19:45:00 [notice] 60440#0: exiting
+2023/03/17 19:45:00 [notice] 60440#0: exiting
+2023/03/17 19:45:00 [notice] 60436#0: exiting
+2023/03/17 19:45:00 [notice] 60436#0: exiting
+2023/03/17 19:45:00 [notice] 60435#0: exiting
+2023/03/17 19:45:00 [notice] 60435#0: exiting
+2023/03/17 19:45:00 [notice] 60434#0: exiting
+2023/03/17 19:45:00 [notice] 60434#0: exiting
+2023/03/17 19:45:00 [notice] 60437#0: exit
+2023/03/17 19:45:00 [notice] 60439#0: exit
+2023/03/17 19:45:00 [notice] 60433#0: exiting
+2023/03/17 19:45:00 [notice] 60433#0: exiting
+2023/03/17 19:45:00 [notice] 60435#0: exit
+2023/03/17 19:45:00 [notice] 60436#0: exit
+2023/03/17 19:45:00 [notice] 60434#0: exit
+2023/03/17 19:45:00 [notice] 60440#0: exit
+2023/03/17 19:45:00 [notice] 60433#0: exit
+2023/03/17 19:45:00 [notice] 60438#0: exit
+2023/03/17 19:45:00 [notice] 33335#0: signal 20 (SIGCHLD) received from 60436
+2023/03/17 19:45:00 [notice] 33335#0: signal 20 (SIGCHLD) received from 60436
+2023/03/17 19:45:00 [notice] 33335#0: worker process 60440 exited with code 0
+2023/03/17 19:45:00 [notice] 33335#0: worker process 60440 exited with code 0
+2023/03/17 19:45:00 [notice] 33335#0: worker process 60439 exited with code 0
+2023/03/17 19:45:00 [notice] 33335#0: worker process 60439 exited with code 0
+2023/03/17 19:45:00 [notice] 33335#0: worker process 60437 exited with code 0
+2023/03/17 19:45:00 [notice] 33335#0: worker process 60437 exited with code 0
+2023/03/17 19:45:00 [notice] 33335#0: worker process 60436 exited with code 0
+2023/03/17 19:45:00 [notice] 33335#0: worker process 60436 exited with code 0
+2023/03/17 19:45:00 [notice] 33335#0: worker process 60434 exited with code 0
+2023/03/17 19:45:00 [notice] 33335#0: worker process 60434 exited with code 0
+2023/03/17 19:45:00 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:45:00 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:45:00 [notice] 33335#0: signal 23 (SIGIO) received from 60433
+2023/03/17 19:45:00 [notice] 33335#0: signal 23 (SIGIO) received from 60433
+2023/03/17 19:45:00 [notice] 33335#0: signal 20 (SIGCHLD) received from 60438
+2023/03/17 19:45:00 [notice] 33335#0: signal 20 (SIGCHLD) received from 60438
+2023/03/17 19:45:00 [notice] 33335#0: worker process 60438 exited with code 0
+2023/03/17 19:45:00 [notice] 33335#0: worker process 60438 exited with code 0
+2023/03/17 19:45:00 [notice] 33335#0: worker process 60435 exited with code 0
+2023/03/17 19:45:00 [notice] 33335#0: worker process 60435 exited with code 0
+2023/03/17 19:45:00 [notice] 33335#0: worker process 60433 exited with code 0
+2023/03/17 19:45:00 [notice] 33335#0: worker process 60433 exited with code 0
+2023/03/17 19:45:00 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:45:00 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:45:00 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:45:00 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 19:45:00 [notice] 33335#0: signal 20 (SIGCHLD) received
+2023/03/17 19:45:00 [notice] 33335#0: signal 20 (SIGCHLD) received
+2023/03/17 20:06:04 [notice] 33335#0: signal 15 (SIGTERM) received from 63441, exiting
+2023/03/17 20:06:04 [notice] 33335#0: signal 15 (SIGTERM) received from 63441, exiting
+2023/03/17 20:06:04 [notice] 62124#0: exiting
+2023/03/17 20:06:04 [notice] 62119#0: exiting
+2023/03/17 20:06:04 [notice] 33335#0: signal 23 (SIGIO) received from 62124
+2023/03/17 20:06:04 [notice] 62124#0: exiting
+2023/03/17 20:06:04 [notice] 62119#0: exiting
+2023/03/17 20:06:04 [notice] 62117#0: exiting
+2023/03/17 20:06:04 [notice] 33335#0: signal 23 (SIGIO) received from 62124
+2023/03/17 20:06:04 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 20:06:04 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 20:06:04 [notice] 62117#0: exiting
+2023/03/17 20:06:04 [notice] 33335#0: signal 23 (SIGIO) received from 62118
+2023/03/17 20:06:04 [notice] 33335#0: signal 23 (SIGIO) received from 62118
+2023/03/17 20:06:04 [notice] 62118#0: exiting
+2023/03/17 20:06:04 [notice] 62118#0: exiting
+2023/03/17 20:06:04 [notice] 33335#0: signal 23 (SIGIO) received from 62122
+2023/03/17 20:06:04 [notice] 33335#0: signal 23 (SIGIO) received from 62122
+2023/03/17 20:06:04 [notice] 62122#0: exiting
+2023/03/17 20:06:04 [notice] 62122#0: exiting
+2023/03/17 20:06:04 [notice] 33335#0: signal 23 (SIGIO) received from 62120
+2023/03/17 20:06:04 [notice] 33335#0: signal 23 (SIGIO) received from 62120
+2023/03/17 20:06:04 [notice] 62120#0: exiting
+2023/03/17 20:06:04 [notice] 62120#0: exiting
+2023/03/17 20:06:04 [notice] 62121#0: exiting
+2023/03/17 20:06:04 [notice] 62121#0: exiting
+2023/03/17 20:06:04 [notice] 33335#0: signal 23 (SIGIO) received from 62121
+2023/03/17 20:06:04 [notice] 33335#0: signal 23 (SIGIO) received from 62121
+2023/03/17 20:06:04 [notice] 62124#0: exit
+2023/03/17 20:06:04 [notice] 62118#0: exit
+2023/03/17 20:06:04 [notice] 62117#0: exit
+2023/03/17 20:06:04 [notice] 62122#0: exit
+2023/03/17 20:06:04 [notice] 62119#0: exit
+2023/03/17 20:06:04 [notice] 62123#0: exiting
+2023/03/17 20:06:04 [notice] 62123#0: exiting
+2023/03/17 20:06:04 [notice] 33335#0: signal 23 (SIGIO) received from 62123
+2023/03/17 20:06:04 [notice] 33335#0: signal 23 (SIGIO) received from 62123
+2023/03/17 20:06:04 [notice] 62123#0: exit
+2023/03/17 20:06:04 [notice] 62120#0: exit
+2023/03/17 20:06:04 [notice] 33335#0: signal 20 (SIGCHLD) received from 62119
+2023/03/17 20:06:04 [notice] 33335#0: signal 20 (SIGCHLD) received from 62119
+2023/03/17 20:06:04 [notice] 33335#0: worker process 62124 exited with code 0
+2023/03/17 20:06:04 [notice] 33335#0: worker process 62124 exited with code 0
+2023/03/17 20:06:04 [notice] 33335#0: worker process 62122 exited with code 0
+2023/03/17 20:06:04 [notice] 33335#0: worker process 62122 exited with code 0
+2023/03/17 20:06:04 [notice] 33335#0: worker process 62119 exited with code 0
+2023/03/17 20:06:04 [notice] 33335#0: worker process 62119 exited with code 0
+2023/03/17 20:06:04 [notice] 33335#0: worker process 62118 exited with code 0
+2023/03/17 20:06:04 [notice] 33335#0: worker process 62118 exited with code 0
+2023/03/17 20:06:04 [notice] 33335#0: worker process 62117 exited with code 0
+2023/03/17 20:06:04 [notice] 33335#0: worker process 62117 exited with code 0
+2023/03/17 20:06:04 [notice] 62121#0: exit
+2023/03/17 20:06:04 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 20:06:04 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 20:06:04 [notice] 33335#0: signal 20 (SIGCHLD) received from 62123
+2023/03/17 20:06:04 [notice] 33335#0: signal 20 (SIGCHLD) received from 62123
+2023/03/17 20:06:04 [notice] 33335#0: worker process 62123 exited with code 0
+2023/03/17 20:06:04 [notice] 33335#0: worker process 62123 exited with code 0
+2023/03/17 20:06:04 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 20:06:04 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 20:06:04 [notice] 33335#0: signal 20 (SIGCHLD) received from 62120
+2023/03/17 20:06:04 [notice] 33335#0: signal 20 (SIGCHLD) received from 62120
+2023/03/17 20:06:04 [notice] 33335#0: worker process 62120 exited with code 0
+2023/03/17 20:06:04 [notice] 33335#0: worker process 62120 exited with code 0
+2023/03/17 20:06:04 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 20:06:04 [notice] 33335#0: signal 23 (SIGIO) received
+2023/03/17 20:06:04 [notice] 33335#0: signal 23 (SIGIO) received from 62121
+2023/03/17 20:06:04 [notice] 33335#0: signal 23 (SIGIO) received from 62121
+2023/03/17 20:06:04 [notice] 33335#0: signal 23 (SIGIO) received from 62121
+2023/03/17 20:06:04 [notice] 33335#0: signal 23 (SIGIO) received from 62121
+2023/03/17 20:06:04 [notice] 33335#0: signal 23 (SIGIO) received from 62121
+2023/03/17 20:06:04 [notice] 33335#0: signal 23 (SIGIO) received from 62121
+2023/03/17 20:06:04 [notice] 33335#0: signal 23 (SIGIO) received from 62121
+2023/03/17 20:06:04 [notice] 33335#0: signal 23 (SIGIO) received from 62121
+2023/03/17 20:06:04 [notice] 33335#0: signal 23 (SIGIO) received from 62121
+2023/03/17 20:06:04 [notice] 33335#0: signal 23 (SIGIO) received from 62121
+2023/03/17 20:06:04 [notice] 33335#0: signal 23 (SIGIO) received from 62121
+2023/03/17 20:06:04 [notice] 33335#0: signal 23 (SIGIO) received from 62121
+2023/03/17 20:06:04 [notice] 33335#0: signal 23 (SIGIO) received from 62121
+2023/03/17 20:06:04 [notice] 33335#0: signal 23 (SIGIO) received from 62121
+2023/03/17 20:06:04 [notice] 33335#0: signal 20 (SIGCHLD) received from 62121
+2023/03/17 20:06:04 [notice] 33335#0: signal 20 (SIGCHLD) received from 62121
+2023/03/17 20:06:04 [notice] 33335#0: worker process 62121 exited with code 0
+2023/03/17 20:06:04 [notice] 33335#0: worker process 62121 exited with code 0
+2023/03/17 20:06:04 [notice] 33335#0: exit
+2023/03/17 20:06:04 [notice] 33335#0: exit
